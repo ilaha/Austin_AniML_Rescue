@@ -24,3 +24,12 @@ Draft information for our presentation.
     - What are the possible outcomes that we should consider?
     - What factors most influence the determination of the outcome?
   
+# Austin AniML Rescue communication protocol
+## To ensure that the group receive consistent messages, we create a communication protocol outlines, where we identify the person responsibilities inside the final Bootcamp project.  
+### Everyone in the Austin AniML Rescue project has a role to play in communication:
+•	Ilaha mammadzada (square) is the manager and responsible for the repository.
+•	Melinda Malone (circle) is in charge of the merging and cleaning of the data set, to make sure the database will work seamlessly with the rest of the project
+•	Sarah Griffin (X) are in charge of deciding which technologies will be used for each step of the project as well as working in machine learning model.
+•	Arlena Wu  (triangle) is in charge to create a sample of a machine leaning model for the project. Where she show and explain how it will work with the rest of the project steps.
+•	Ruth Ortiz (x) and (triangle) is in charge to create the diagram that explains how it the project works by creating a visualization illustration in tableau.
+## Everybody is responsible to voice their concerns and issues, provide feedbacks and listen to the other effectively.
