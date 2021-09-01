@@ -1,7 +1,7 @@
 # Austin_AniML_Rescue
 This repository contains a Machine Learning project to analyze Austin Animal Center's data
 
-![AAC_graphic](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Resources/AAC_graphic.PNG)
+![AAC_graphic](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/AAC_graphic.PNG)
 
 
 
