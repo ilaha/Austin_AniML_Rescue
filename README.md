@@ -3,7 +3,7 @@ This repository contains a Machine Learning project to analyze Austin Animal Cen
 
 ![AAC_graphic](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/AAC_graphic.PNG)
 
-:)
+
 
 ## Presentation
 Draft information for our presentation.
