@@ -16,13 +16,14 @@ Draft information for our presentation.
     - [Austin Animal Center Intakes](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm)
     - [Austin Animal Center Outcomes](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238)
 
-- Questions to answer: We have two main questions that we are interested in answering, along with related subquestions. Question 1 is a regression prediction, and question 2 is a categorical prediction.
-  1. Can we predict the length of stay at the shelter for animals?
-    - What factors most influence the length of stay?
-    - Are the factors that influence the length of stay different for different animals?
-  2. Can we predict the outcome for an animal based on other characteristics?
+- Questions to answer: We have two main questions that we are interested in answering, along with related subquestions. Question 1 is a regression prediction, and question 2 is a categorical prediction. We will start by answering question 1 and if we have time will add a prediction for question 2.
+  - Question 1: Can we predict the outcome for an animal based on other characteristics?
     - What are the possible outcomes that we should consider?
     - What factors most influence the determination of the outcome?
+  - Question 2: Can we predict the length of stay at the shelter for animals?
+    - What factors most influence the length of stay?
+    - Are the factors that influence the length of stay different for different animals?
+
   
 # Austin AniML Rescue communication protocol
 ## To ensure that the group receive consistent messages, we create a communication protocol outlines, where we identify the person responsibilities inside the final Bootcamp project.  
