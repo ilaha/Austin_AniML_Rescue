@@ -29,33 +29,33 @@ Draft information for our presentation.
 ## To ensure that the group receive consistent messages, we create a communication protocol outlines, where we identify the person responsibilities inside the final Bootcamp project.
 
 ### Everyone in the Austin AniML Rescue project has a role to play in communication:
-     - **Ilaha Mammadzada** (square) is the manager and responsible for the repository.
-     - **Melinda Malone** (circle) is in charge of the merging and cleaning of the data set, 
+     - Ilaha Mammadzada(square) is the manager and responsible for the repository.
+     - Melinda Malone (circle) is in charge of the merging and cleaning of the data set, 
                 to make sure the database will work seamlessly with the rest of the project
-     - **Sarah Griffin** (X) are in charge of deciding which technologies will be used for 
+     - Sarah Griffin (X) are in charge of deciding which technologies will be used for 
                 each step of the project as well as working in machine learning model.
-     - **Arlena Wu**  (triangle) is in charge to create a sample of a machine leaning 
+     - Arlena Wu  (triangle) is in charge to create a sample of a machine leaning 
                 model for the project. Where she show and explain how it will work with the rest of the project steps.
-     - **Ruth Ortiz** (x) and (triangle) is in charge to create the diagram that explains how it the project works
+     - Ruth Ortiz(x) and (triangle) is in charge to create the diagram that explains how it the project works
                 by creating a visualization illustration in tableau.
             
-#### ***Everybody is responsible to voice their concerns and issues, provide feedbacks and listen to the other effectively.***
-#### ***The members of the team are going to leave a comment( if needed) on GitHub before merging the side branch to the main branch.*** 
-#### ***Two of team members are going to review the commitment and the third one is going to approve the document.***
+#### Everybody is responsible to voice their concerns and issues, provide feedbacks and listen to the other effectively.
+#### The members of the team are going to leave a comment( if needed) on GitHub before merging the side branch to the main branch.
+#### Two of team members are going to review the commitment and the third one is going to approve the document.
 
 
 ### We had establish our best communication vehicles should be:
-     - **Location: we are open to meet in person on the weekends and online during the week days.
+     - Location: we are open to meet in person on the weekends and online during the week days.
 
-     - **Virtual team-meetings: we will rely in video calls for specific coordination about the main point in the project, as well as for give a feedback about the development and results from the project.
+     - Virtual team-meetings: we will rely in video calls for specific coordination about the main point in the project, as well as for give a feedback about the development and results from the project.
      
-     - **Timing: our schedule is pretty flexible for group work meetings and always open to consider everybody availability.
+     - Timing: our schedule is pretty flexible for group work meetings and always open to consider everybody availability.
 
-     - **Face to face meetings: everybody in the group is open to face to face meetings when we need to coordinate important subjects in the project.
+     - Face to face meetings: everybody in the group is open to face to face meetings when we need to coordinate important subjects in the project.
 
-     - **Messages: We are actives to have an effective quick answer on slack and in text messages,the number of integrant in the team don’t affect our communication.
+     - Messages: We are actives to have an effective quick answer on slack and in text messages,the number of integrant in the team don’t affect our communication.
 
-     - **Mail: it may be used when information is urgent, but we would pick slack.
+     - Mail: it may be used when information is urgent, but we would pick slack.
 
-     - **Slack: we choose as main messaging space to resolve small concerns for the quick and fast to answer 
+     - Slack: we choose as main messaging space to resolve small concerns for the quick and fast to answer 
 
