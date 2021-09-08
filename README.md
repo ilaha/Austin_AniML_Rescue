@@ -24,7 +24,7 @@ Draft information for our presentation.
     - What are the possible outcomes that we should consider?
     - What factors most influence the determination of the outcome?
   
-# Austin AniML Rescue _Communication_Protocol
+# Austin AniML Rescue CommunicationProtocol
 
 ## To ensure that the group receive consistent messages, we create a communication protocol outlines, where we identify the person responsibilities inside the final Bootcamp project.
 
