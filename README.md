@@ -24,27 +24,31 @@ Draft information for our presentation.
     - What are the possible outcomes that we should consider?
     - What factors most influence the determination of the outcome?
   
-# Austin AniML Rescue CommunicationProtocol
+# Austin AniML Rescue Communication Protocol
 
-## To ensure that the group receive consistent messages, we create a communication protocol outlines, where we identify the person responsibilities inside the final Bootcamp project.
+## To ensure consistent messaging, we created a communication protocol outlining the responsibilities for each person in the group project.
 
 ### Everyone in the Austin AniML Rescue project has a role to play in communication:
-     - Ilaha Mammadzada(square) is the manager and responsible for the repository.
-     - Melinda Malone (circle) is in charge of the merging and cleaning of the data set, 
-                to make sure the database will work seamlessly with the rest of the project
-     - Sarah Griffin (X) are in charge of deciding which technologies will be used for 
-                each step of the project as well as working in machine learning model.
-     - Arlena Wu  (triangle) is in charge to create a sample of a machine leaning 
-                model for the project. Where she show and explain how it will work with the rest of the project steps.
-     - Ruth Ortiz(x) and (triangle) is in charge to create the diagram that explains how it the project works
-                by creating a visualization illustration in tableau.
+
+##### The roles will change during the final project so that each member has the opportunity to learn about each piece of the project and practice the related skills.
+
+      - Role 1: Repository management. This team member leads efforts to maintain the GitHub repository, including resolving merge conflicts, and help keep the main branch as the source of our most recent working code. 
+                This person also updates the Readme.md file on the main branch as changes are made to the GitHub repo.
+      - Role 2: Project management. This team member leads the efforts for knowing what deliverables are required for the UT Bootcamp at each stage and assuring that the work the team is doing leads to successful fulfillment of the deliverables. 
+                This includes comparing the work to the rubric requirements as posted for class and helping to decide which technologies are used at each step of the project.
+      - Role 3: ML modeling. This team member works on the coding aspect of the ML model as well as data cleaning and exploratory data analysis.
+      - Role 4: Database & Dashboard management. This team member maintains and updates the database (PgAdmin4) as needed and leads the efforts for creating and maintaining our final dashboard.
+      - Role 5: Presentation management. This team member writes the presentation files and helps other team members as needed.
             
-#### Everybody is responsible to voice their concerns and issues, provide feedbacks and listen to the other effectively.
-#### The members of the team are going to leave a comment( if needed) on GitHub before merging the side branch to the main branch.
-#### Two of team members are going to review the commitment and the third one is going to approve the document.
+#### Everybody is responsible to providing feedback on Group Work.
+#### After committing work to the appropriate branch, submit a pull request once you believe the work is ready to be merged to the main branch.
+#### Two additional team members need to review the work as soon as possible and leave comments.
+#### A third team member completes the final review and merges the changes. This should be the person serving as the Repository manager for that week of the project.
+#### If significant changes are required to the commit, it is advised to ask the original author to revise the work and submit a new commit. Then the process starts again.
 
 
-### We had establish our best communication vehicles should be:
+### We had establish our best communication Tools and Timing:
+
      - Location: we are open to meet in person on the weekends and online during the week days.
 
      - Virtual team-meetings: we will rely in video calls for specific coordination about the main point in the project, as well as for give a feedback about the development and results from the project.
