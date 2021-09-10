@@ -33,33 +33,31 @@ Draft information for our presentation.
 
 ##### The roles will change during the final project so that each member has the opportunity to learn about each piece of the project and practice the related skills.
 
-      - Role 1: Repository management. This team member leads efforts to maintain the GitHub repository, including resolving merge conflicts, and help keep the main branch as the source of our most recent working code. 
-                This person also updates the Readme.md file on the main branch as changes are made to the GitHub repo.
-      - Role 2: Project management. This team member leads the efforts for knowing what deliverables are required for the UT Bootcamp at each stage and assuring that the work the team is doing leads to successful fulfillment of the deliverables. 
-                This includes comparing the work to the rubric requirements as posted for class and helping to decide which technologies are used at each step of the project.
-      - Role 3: ML modeling. This team member works on the coding aspect of the ML model as well as data cleaning and exploratory data analysis.
-      - Role 4: Database & Dashboard management. This team member maintains and updates the database (PgAdmin4) as needed and leads the efforts for creating and maintaining our final dashboard.
-      - Role 5: Presentation management. This team member writes the presentation files and helps other team members as needed.
+ - ***Role 1***: Repository management. This team member leads efforts to maintain the GitHub repository, including resolving merge conflicts, and help keep the main branch as the source of our most recent working code. This person also updates the Readme.md file on the main branch as changes are made to the GitHub repo.
+ - ***Role 2***: Project management. This team member leads the efforts for knowing what deliverables are required for the UT Bootcamp at each stage and assuring that the work the team is doing leads to successful fulfillment of the deliverables. This includes comparing the work to the rubric requirements as posted for class and helping to decide which technologies are used at each step of the project.
+ - ***Role 3***: ML modeling. This team member works on the coding aspect of the ML model as well as data cleaning and exploratory data analysis.
+ - ***Role 4***: Database & Dashboard management. This team member maintains and updates the database (PgAdmin4) as needed and leads the efforts for creating and maintaining our final dashboard.
+ - ***Role 5***: Presentation management. This team member writes the presentation files and helps other team members as needed.
 
-#### Everybody is responsible to providing feedback on Group Work.
-#### After committing work to the appropriate branch, submit a pull request once you believe the work is ready to be merged to the main branch.
-#### Two additional team members need to review the work as soon as possible and leave comments.
-#### A third team member completes the final review and merges the changes. This should be the person serving as the Repository manager for that week of the project.
-#### If significant changes are required to the commit, it is advised to ask the original author to revise the work and submit a new commit. Then the process starts again.
+##### - _Everybody is responsible to providing feedback on Group Work.
+##### - _After committing work to the appropriate branch, submit a pull request once you believe the work is ready to be merged to the main branch.
+##### - _Two additional team members need to review the work as soon as possible and leave comments.
+##### - _A third team member completes the final review and merges the changes. This should be the person serving as the Repository manager for that week of the project.
+##### - _If significant changes are required to the commit, it is advised to ask the original author to revise the work and submit a new commit. Then the process starts again.
 
 
 ### We had establish our best communication Tools and Timing:
 
-     - Location: we are open to meet in person on the weekends and online during the week days.
+- ***Location***: we are open to meet in person on the weekends and online during the week days.
 
-     - Virtual team-meetings: we will rely in video calls for specific coordination about the main point in the project, as well as for give a feedback about the development and results from the project.
+ - ***Virtual team-meetings***: we will rely in video calls for specific coordination about the main point in the project, as well as for give a feedback about the development and results from the project.
      
-     - Timing: our schedule is pretty flexible for group work meetings and always open to consider everybody availability.
+- ***Timing***: our schedule is pretty flexible for group work meetings and always open to consider everybody availability.
 
-     - Face to face meetings: everybody in the group is open to face to face meetings when we need to coordinate important subjects in the project.
+- ***Face to face meetings***: everybody in the group is open to face to face meetings when we need to coordinate important subjects in the project.
 
-     - Messages: We are actives to have an effective quick answer on slack and in text messages,the number of integrant in the team don’t affect our communication.
+- ***Messages***: We are actives to have an effective quick answer on slack and in text messages,the number of integrant in the team don’t affect our communication.
 
-     - Mail: it may be used when information is urgent, but we would pick slack.
+- ***Mail***: it may be used when information is urgent, but we would pick slack.
 
-     - Slack: we choose as main messaging space to resolve small concerns for the quick and fast to answer 
+- ***Slack***: we choose as main messaging space to resolve small concerns for the quick and fast to answer 
