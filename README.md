@@ -25,11 +25,11 @@ Draft information for our presentation.
     - Are the factors that influence the length of stay different for different animals?
 
   
-# Austin AniML Rescue Communication Protocol
+## Austin AniML Rescue Communication Protocol
 
-## To ensure consistent messaging, we created a communication protocol outlining the responsibilities for each person in the group project.
+#### - To ensure consistent messaging, we created a communication protocol outlining the responsibilities for each person in the group project.
 
-### Everyone in the Austin AniML Rescue project has a role to play in communication:
+### Communication Roles:
 
 ##### The roles will change during the final project so that each member has the opportunity to learn about each piece of the project and practice the related skills.
 
@@ -39,11 +39,11 @@ Draft information for our presentation.
  - ***Role 4***: Database & Dashboard management. This team member maintains and updates the database (PgAdmin4) as needed and leads the efforts for creating and maintaining our final dashboard.
  - ***Role 5***: Presentation management. This team member writes the presentation files and helps other team members as needed.
 
-##### - _Everybody is responsible to providing feedback on Group Work.
-##### - _After committing work to the appropriate branch, submit a pull request once you believe the work is ready to be merged to the main branch.
-##### - _Two additional team members need to review the work as soon as possible and leave comments.
-##### - _A third team member completes the final review and merges the changes. This should be the person serving as the Repository manager for that week of the project.
-##### - _If significant changes are required to the commit, it is advised to ask the original author to revise the work and submit a new commit. Then the process starts again.
+##### - _Everybody is responsible to providing feedback on Group Work._
+##### - _After committing work to the appropriate branch, submit a pull request once you believe the work is ready to be merged to the main branch._
+##### - _Two additional team members need to review the work as soon as possible and leave comments._
+##### - _A third team member completes the final review and merges the changes. This should be the person serving as the Repository manager for that week of the project._
+##### - _If significant changes are required to the commit, it is advised to ask the original author to revise the work and submit a new commit. Then the process starts again._
 
 
 ### We had establish our best communication Tools and Timing:
