@@ -1,4 +1,4 @@
--- Creating table for Austin_AniML_Rescue
+-- Create table for Austin_AniML_Rescue Intakes
 CREATE TABLE intakes (
 	animal_id VARCHAR NOT NULL,
 	animal_name VARCHAR,
@@ -14,12 +14,9 @@ CREATE TABLE intakes (
 	color VARCHAR NOT NULL,
 	PRIMARY KEY (animal_id),
 	UNIQUE (animal_id)
-	--FOREIGN KEY (animal_name) REFERENCES outcomes (animal_name),
-	--FOREIGN KEY (animal_type) REFERENCES outcomes (animal_type),
-	--FOREIGN KEY (breed) REFERENCES outcomes (breed),
-	--FOREIGN KEY (color) REFERENCES outcomes (color)
 );
 
+-- Create table for Austin_AniML_Rescue Outcomes
 CREATE TABLE outcomes (
 	animal_id VARCHAR NOT NULL,
 	animal_name VARCHAR,
@@ -35,32 +32,3 @@ CREATE TABLE outcomes (
 	color VARCHAR NOT NULL,
 	PRIMARY KEY (animal_id)
 );
-
-SELECT * FROM outcomes;
-SELECT * FROM intakes;
-
-DROP TABLE intakes;
-DROP TABLE outcomes;
-
---Joining intakes and outcomes by animal_id
-SELECT intakes.animal_id,
-	intakes.animal_name,
-	intakes.animal_type,
-	intakes.breed,
-	intakes.color,
-	intakes.intake_type,
-	outcomes.date_of_birth,
-	intakes.intake_date,
-	intakes.found_location,
-	intakes.intake_condition,
-	intakes.sex_upon_intake,
-	intakes.age_upon_intake,
-	outcomes.outcome_date,
-	outcomes.outcome_type,
-	outcomes.outcome_subtype,
-	outcomes.sex_upon_outcome,
-	outcomes.age_upon_outcome
-INTO intakes_outcomes
-FROM intakes
-INNER JOIN outcomes
-ON intakes.animal_id = outcomes.animal_id;
