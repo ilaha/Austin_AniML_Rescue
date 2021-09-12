@@ -16,7 +16,7 @@ Draft information for our presentation.
     - [Austin Animal Center Intakes](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm)
     - [Austin Animal Center Outcomes](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238)
 
-- Questions to answer: We have two main questions that we are interested in answering, along with related subquestions. Question 1 is a regression prediction, and question 2 is a categorical prediction. We will start by answering question 1 and if we have time will add a prediction for question 2.
+- Questions to answer: We have two main questions that we are interested in answering, along with related subquestions. Question 1 is a categorical prediction, and question 2 is a regression prediction. We will start by answering question 1 and if we have time will add a prediction for question 2.
   - Question 1: Can we predict the outcome for an animal based on other characteristics?
     - What are the possible outcomes that we should consider?
     - What factors most influence the determination of the outcome?
@@ -24,6 +24,9 @@ Draft information for our presentation.
     - What factors most influence the length of stay?
     - Are the factors that influence the length of stay different for different animals?
 
+- Preliminary Machine Learning Model
+For predicting the animal outcome, our current sketch of our pipeline is to move from the SQL data into Python for cleaning, spliting into the training and testing sets, and then utilize a Random Forest Classifier. 
+![Machine_Learning_Flowchart](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/Machine_Learning_Flowchart.png)
   
 ## Austin AniML Rescue Communication Protocol
 
