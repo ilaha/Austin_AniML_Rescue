@@ -1,0 +1,13 @@
+# This file specifies which Python packages are required to run the code posted on this repository.
+# Python version 3.7.10 was used.
+
+joblib==1.0.1
+jupyterlab==3.0.12
+numpy==1.20.2
+pandas==1.2.4
+python-dateutil==2.8.1
+scikit-learn==0.24.1
+sqlalchemy==1.4.7
+xgboost==1.4.2
+
+
