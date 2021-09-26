@@ -1,0 +1,382 @@
+adopt_feature,adopt_importance,euth_feature,euth_importance,transfer_feature,transfer_importance
+sex_upon_intake_Unknown,0.4808054566383362,intake_condition_Normal,0.1665390580892563,sex_upon_intake_Unknown,0.29995036125183105
+intake_type_Stray,0.07455779612064362,intake_condition_Injured,0.12810847163200378,intake_type_Stray,0.08205834031105042
+intake_condition_Normal,0.02478960156440735,intake_condition_Nursing,0.0820164754986763,intake_condition_Injured,0.038908589631319046
+age_upon_intake_in_days,0.01611633598804474,intake_condition_Sick,0.07573267072439194,intake_condition_Normal,0.028093479573726654
+sex_upon_intake_Spayed Female,0.014149789698421955,sex_upon_intake_Unknown,0.04617295414209366,intake_condition_Sick,0.022855550050735474
+color_Gray Tabby,0.012219359166920185,intake_type_Stray,0.017254728823900223,sex_upon_intake_Spayed Female,0.02257205918431282
+intake_condition_Sick,0.011797742918133736,color_Tortie/Black,0.012116365134716034,age_upon_intake_in_days,0.02121206745505333
+intake_condition_Other,0.010375501587986946,color_Orange Tabby/White,0.01139436848461628,color_White/Brown Tabby,0.01470660325139761
+color_Orange Tabby/White,0.00788746029138565,age_upon_intake_in_days,0.01101116742938757,color_Gray Tabby,0.013133388943970203
+intake_type_Owner Surrender,0.007710020989179611,color_Blue Tabby,0.01078021340072155,sex_upon_intake_Neutered Male,0.012287342920899391
+breed_American Shorthair Mix,0.007046987302601337,intake_type_Owner Surrender,0.010741879232227802,intake_condition_Feral,0.011254167184233665
+intake_type_Abandoned,0.006974668707698584,color_Cream Tabby,0.010183917358517647,intake_type_Owner Surrender,0.010576886124908924
+color_Blue Tabby/White,0.006837302818894386,color_Brown Tabby/White,0.010086040012538433,color_Black/Black,0.010271534323692322
+intake_condition_Nursing,0.006811343599110842,intake_condition_Feral,0.009933375753462315,breed_Domestic Longhair Mix,0.00957565102726221
+color_Blue Tabby,0.006701943930238485,breed_American Shorthair Mix,0.009349782951176167,intake_type_Public Assist,0.009286153130233288
+sex_upon_intake_Neutered Male,0.006687481887638569,breed_Domestic Shorthair,0.009315432980656624,color_Blue Tabby/White,0.008777808398008347
+breed_Siamese Mix,0.006680001970380545,color_White/Brown Tabby,0.009225117973983288,color_White,0.008628121577203274
+color_White,0.006180629134178162,color_Gray/White,0.00918812956660986,color_Cream Tabby/White,0.0079010259360075
+intake_type_Public Assist,0.006008949596434832,color_Orange Tabby,0.009128104895353317,intake_condition_Other,0.007829480804502964
+color_Gray/White,0.005807825829833746,color_Blue/White,0.00909472443163395,color_Orange Tabby,0.007798939011991024
+color_Torbie/White,0.005780553910881281,color_White,0.00897306390106678,color_Gray/White,0.007444656919687986
+color_Tortie,0.005738706327974796,breed_Domestic Medium Hair Mix,0.008828035555779934,intake_type_Abandoned,0.007378886919468641
+color_White/Orange Tabby,0.005698870401829481,color_Blue Tabby/White,0.008716742508113384,intake_condition_Nursing,0.007223102729767561
+color_Orange/White,0.005572824738919735,color_Brown Tabby/Black,0.00852073635905981,color_Tortie Point,0.007173785474151373
+color_White/Gray,0.005555723328143358,color_Gray Tabby,0.00850258581340313,color_Torbie,0.0071139526553452015
+color_Tortie Point,0.005495003424584866,breed_Domestic Shorthair Mix,0.008224832825362682,color_Tortie,0.006938102189451456
+color_Torbie,0.0054081943817436695,intake_type_Public Assist,0.008089237846434116,color_Brown Tabby/Black,0.006916727405041456
+breed_Domestic Shorthair,0.005325186997652054,color_Black/White,0.00788415689021349,color_Orange,0.006907949689775705
+color_Black/White,0.005234362091869116,color_Calico,0.007742530666291714,color_White/Black,0.006755811162292957
+color_Orange,0.005204802844673395,intake_type_Euthanasia Request,0.007732619531452656,breed_Snowshoe Mix,0.00659220153465867
+color_Brown Tabby,0.005115206819027662,breed_Domestic Longhair Mix,0.007729440927505493,color_Gray Tabby/White,0.006591660901904106
+color_Gray,0.0050993203185498714,color_Blue,0.0074280924163758755,color_Calico,0.006585069000720978
+color_Flame Point,0.005020633339881897,color_White/Black,0.007373177912086248,breed_Domestic Shorthair,0.006484836805611849
+breed_Siamese,0.005018966738134623,sex_upon_intake_Intact Female,0.007372827269136906,color_Orange/White,0.006470757536590099
+color_Brown Tabby/White,0.00490161357447505,color_Orange,0.007304290309548378,breed_Domestic Medium Hair Mix,0.006435497663915157
+color_Calico/White,0.004858770873397589,color_Brown Tabby,0.007064183708280325,color_Orange Tabby/White,0.006287615746259689
+color_Black,0.0048343464732170105,breed_Domestic Longhair,0.0068873455747962,breed_American Shorthair Mix,0.006019119173288345
+color_Calico,0.004752208478748798,color_Tortie,0.006788755767047405,color_Blue,0.0060097998939454556
+breed_Domestic Medium Hair Mix,0.004630142357200384,color_Black,0.006720383185893297,color_Silver Tabby,0.005992548074573278
+color_Lilac Point,0.004595751874148846,color_Torbie/White,0.006452877074480057,color_White/Cream Tabby,0.005924539174884558
+intake_condition_Feral,0.004536507651209831,color_Black Tabby,0.006449239794164896,color_Torbie/White,0.0057459622621536255
+color_Black Tabby,0.00451018987223506,intake_condition_Other,0.006267867982387543,breed_Domestic Medium Hair,0.005521343555301428
+color_Cream Tabby,0.0044182902202010155,color_Seal Point,0.006246502511203289,color_Cream Tabby,0.005521257407963276
+color_Cream Tabby/White,0.0043755886144936085,color_Gray,0.006171084940433502,color_Brown Tabby/White,0.005414379294961691
+color_Blue/White,0.004336221143603325,color_White/Orange,0.006082620471715927,breed_Domestic Shorthair Mix,0.005372597835958004
+intake_condition_Injured,0.0042480891570448875,color_Cream Tabby/White,0.005847419146448374,color_Calico/White,0.005326168145984411
+color_Seal Point,0.004231435712426901,sex_upon_intake_Neutered Male,0.005786698777228594,color_Lilac Point,0.005302885081619024
+breed_Domestic Longhair,0.00420742854475975,color_Cream,0.005460521671921015,breed_Siamese Mix,0.0051858252845704556
+breed_Snowshoe Mix,0.004167922772467136,color_Torbie,0.0054121254943311214,color_Blue Tabby,0.005041414871811867
+breed_Domestic Shorthair Mix,0.003965867683291435,sex_upon_intake_Intact Male,0.005299298092722893,color_Gray,0.005040313117206097
+color_White/Black,0.0039009861648082733,breed_Domestic Medium Hair,0.004938742145895958,color_Black,0.004940197337418795
+breed_Domestic Longhair Mix,0.0037457032594829798,color_Lilac Point,0.0049376883544027805,breed_Siamese,0.004872989375144243
+color_White/Cream Tabby,0.003735367674380541,sex_upon_intake_Spayed Female,0.004925695713609457,breed_Domestic Longhair,0.004795555956661701
+color_Orange Tabby,0.0037082210183143616,intake_condition_Aged,0.004895368125289679,color_Lynx Point/White,0.004716124851256609
+breed_Domestic Medium Hair,0.0036223980132490396,breed_Siamese,0.004613999743014574,breed_Maine Coon,0.004600483924150467
+color_Black/Black,0.0036033871583640575,intake_condition_Medical,0.0046063982881605625,color_White/Blue,0.004572832956910133
+breed_Ragdoll Mix,0.003580991644412279,breed_American Shorthair,0.004579014144837856,color_Black Tabby/White,0.004495457746088505
+color_Brown Tabby/Black,0.0035117838997393847,color_Black Smoke,0.004571452736854553,color_Brown,0.0043655638583004475
+sex_upon_intake_Intact Female,0.0034280065447092056,intake_condition_Neonatal,0.004089848138391972,color_Black Tabby,0.004091138951480389
+color_Lynx Point/White,0.0033294400200247765,color_White/Blue,0.003961323760449886,color_Brown Tabby,0.004013474099338055
+color_Brown,0.0031715882942080498,color_Silver Tabby,0.003947926685214043,color_Seal Point/White,0.003972913138568401
+sex_upon_intake_Intact Male,0.0030840709805488586,breed_Siamese Mix,0.0038174986839294434,color_Black/White,0.0039715636521577835
+color_Gray Tabby/White,0.003075738437473774,color_Flame Point,0.0038074657786637545,sex_upon_intake_Intact Male,0.0038682136218994856
+color_White/Brown Tabby,0.0026564474683254957,color_White/Gray,0.0037608167622238398,color_Blue/White,0.0038666885811835527
+breed_Maine Coon,0.0024821236729621887,intake_condition_Pregnant,0.003697546198964119,sex_upon_intake_Intact Female,0.003792596748098731
+intake_type_Euthanasia Request,0.002413790440186858,color_Lynx Point,0.0036632660776376724,color_Gray/Gray,0.0033703462686389685
+intake_condition_Neonatal,0.002385368337854743,color_Gray Tabby/White,0.003613385371863842,intake_condition_Aged,0.0033542548771947622
+color_Tortie/White,0.00236106151714921,color_Tortie/White,0.0035989838652312756,intake_condition_Medical,0.0033153078984469175
+breed_Russian Blue Mix,0.0023286740761250257,breed_Russian Blue,0.0035135881043970585,color_Cream/White,0.0030676042661070824
+color_Blue,0.002265852177515626,breed_Manx Mix,0.0032827805262058973,color_Blue Point,0.0030156366992741823
+color_Black Smoke,0.0022526236716657877,breed_Snowshoe Mix,0.0031829653307795525,color_Seal Point,0.0029736028518527746
+color_Gray/Gray,0.0022141425870358944,intake_type_Abandoned,0.003176935715600848,color_Gray Tabby/Black,0.002966885222122073
+color_Seal Point/White,0.002092851558700204,color_Brown/Black,0.0031649197917431593,color_Chocolate Point,0.0028270422481000423
+color_White/Orange,0.0019533736631274223,breed_Russian Blue Mix,0.003142226254567504,intake_condition_Neonatal,0.0028094507288187742
+breed_Manx,0.0019489963306114078,color_Orange/White,0.003099929541349411,breed_Persian Mix,0.002607849193736911
+breed_Maine Coon Mix,0.0019251229241490364,breed_Maine Coon Mix,0.0030560886953026056,breed_Russian Blue Mix,0.0025215516798198223
+breed_Ragdoll,0.0019214776111766696,color_Black/Gray,0.003043025266379118,breed_Ragdoll Mix,0.0025129825808107853
+breed_Persian Mix,0.0019197147339582443,color_White/Blue Tabby,0.0028363303281366825,breed_Snowshoe,0.002319777151569724
+intake_condition_Aged,0.0019094070885330439,color_Chocolate Point,0.0026807961985468864,breed_Russian Blue,0.0022779253777116537
+color_White/Blue Tabby,0.0018597256857901812,color_White/Orange Tabby,0.002637452445924282,color_White/Gray,0.0022669839672744274
+color_White/Blue,0.0018588752718642354,color_Tortie Point,0.002564441179856658,color_White/Orange,0.002253839047625661
+color_White/Gray Tabby,0.0018472073134034872,color_Calico/White,0.002318777609616518,breed_Manx Mix,0.002243271330371499
+color_Brown/White,0.001788394059985876,color_Cream/White,0.002277873456478119,breed_Ragdoll,0.002152472734451294
+color_Silver Lynx Point,0.0017367034452036023,color_Blue Point,0.0020412802696228027,breed_Manx,0.0021262329537421465
+color_Chocolate Point,0.0017258258303627372,color_Black Tabby/White,0.002028366783633828,color_Blue Smoke,0.0020968925673514605
+breed_Persian,0.0017013183096423745,color_Brown,0.0014357668114826083,breed_Maine Coon Mix,0.00205692439340055
+color_Blue Smoke,0.0016653153579682112,color_White/Brown,0.0009151679696515203,color_Blue Point/White,0.002038264647126198
+breed_Turkish Angora Mix,0.001526431879028678,color_Black/Black,0.0008739327895455062,color_Tortie/White,0.0020039803348481655
+color_Buff,0.0014548295876011252,color_Black Smoke/White,0.0007977193454280496,color_Lynx Point,0.0019815326668322086
+color_Black/Orange,0.0014482915867120028,breed_Balinese Mix,0.0006351029151119292,color_White/Gray Tabby,0.001751019968651235
+color_White/White,0.0013810916570946574,color_Blue Cream,0.0005359144415706396,color_Lilac Point/White,0.0017491393955424428
+color_Calico/Black,0.0013768610078841448,color_Orange Tabby/Apricot,0.0,breed_Turkish Van Mix,0.0016941752983257174
+color_White/Tan,0.0013255311641842127,color_Lynx Point/White,0.0,color_Flame Point,0.0016935521271079779
+color_Blue Point/White,0.0013182512484490871,breed_Abyssinian/Domestic Shorthair,0.0,breed_Persian,0.001679660170339048
+breed_Turkish Van Mix,0.0012931071687489748,color_White/Tan,0.0,color_Buff,0.0016479328041896224
+intake_condition_Medical,0.001247877487912774,color_Orange Tabby/Black,0.0,color_Brown/White,0.0015725792618468404
+breed_Himalayan Mix,0.0012284301919862628,color_Orange Tabby/Brown,0.0,color_Tortie/Black,0.0015705267433077097
+breed_Snowshoe,0.0011683215852826834,color_Orange Tabby/Cream,0.0,color_White/Brown,0.0014981712447479367
+color_Lilac Point/White,0.0011199916480109096,color_Orange Tabby/Orange,0.0,color_Blue Tabby/Cream,0.0014716931618750095
+intake_condition_Pregnant,0.0010855274740606546,color_Orange Tabby/Orange Tabby,0.0,color_White/White,0.0014648044016212225
+color_Chocolate,0.001051295199431479,breed_American Curl Shorthair,0.0,color_Cream/Brown,0.0014281189069151878
+color_White/Cream,0.0010483281221240759,color_Orange Tabby/Tortie Point,0.0,color_Black Smoke,0.0014184092869982123
+color_Tortie Point/White,0.0010293152881786227,color_Lynx Point/Tan,0.0,breed_American Shorthair,0.0013764260802417994
+color_Lynx Point,0.001014676527120173,color_Orange Tiger,0.0,color_Black/Gray,0.0013529268326237798
+color_Gray Tabby/Black,0.0009551871917210519,color_Orange/Orange Tabby,0.0,color_Calico Point,0.0013239780673757195
+color_Blue Tabby/Cream,0.000936074007768184,color_Pink,0.0,color_Chocolate,0.001292940229177475
+color_Calico Point,0.0008874792838469148,color_Red,0.0,breed_American Curl Shorthair Mix,0.0012273117899894714
+breed_Abyssinian Mix,0.0008362152730114758,color_Red Tick,0.0,color_Calico/Black,0.001220286125317216
+color_Black/Brown,0.0008149626664817333,color_Red/White,0.0,color_Black/Brown,0.0011949313338845968
+color_Silver Tabby,0.0008136876276694238,color_Lynx Point/Tortie Point,0.0,breed_Himalayan Mix,0.001194099080748856
+color_Flame Point/White,0.0007922148797661066,color_Lilac Point/Cream,0.0,breed_Turkish Angora Mix,0.001135647646151483
+color_Cream,0.0006838201661594212,color_Lynx Point/Gray Tabby,0.0,color_Brown/Black,0.0011182045564055443
+breed_American Curl Shorthair Mix,0.0006418878328986466,color_Lynx Point/Gray,0.0,color_Black/Orange,0.001077392022125423
+color_Blue Point,0.0006227349513210356,color_Cream/Black,0.0,color_Tortie Point/White,0.000898799451533705
+color_Agouti,0.0004955461481586099,color_Cream/Blue Point,0.0,color_Gray/Black,0.0008842088864184916
+color_Cream/Brown,0.0004770415253005922,color_Cream/Brown,0.0,color_White/Blue Tabby,0.0008115850505419075
+color_Black Tabby/White,0.0004745461337734014,color_Cream/Gray,0.0,color_Silver Lynx Point,0.0007786370115354657
+color_Black Smoke/White,0.000472870422527194,color_Cream/Orange,0.0,color_Black Smoke/White,0.0005491781630553305
+breed_Himalayan,0.00043528873356990516,color_Cream/Seal Point,0.0,intake_condition_Pregnant,0.0005417015054263175
+color_Tortie/Black,0.0004299939901102334,color_Cream/Tan,0.0,breed_Abyssinian Mix,0.0004733753448817879
+breed_Abyssinian,0.0004152645997237414,color_Fawn,0.0,color_White/Calico,0.00041589754982851446
+color_White/Chocolate,0.0,color_Flame Point/Cream,0.0,color_White/Silver Tabby,0.0
+color_White/Calico Point,0.0,color_Flame Point/White,0.0,color_White/Red,0.0
+color_Lilac Point/Gray,0.0,color_Gray Tabby/Black,0.0,color_Lynx Point/Gray,0.0
+color_White/Chocolate Point,0.0,color_Gray Tabby/Gray,0.0,color_Lynx Point/Cream,0.0
+color_White/Flame Point,0.0,color_Gray Tabby/Orange,0.0,color_Lynx Point/Brown Tabby,0.0
+color_White/Lilac Point,0.0,color_Gray/Black,0.0,color_White/Seal Point,0.0
+color_Lynx Point/Blue,0.0,color_Gray/Brown,0.0,color_Tortie/Blue Cream,0.0
+color_Tortie Point/Lynx Point,0.0,color_Gray/Gray,0.0,color_White/Lilac Point,0.0
+color_Lynx Point/Brown Tabby,0.0,color_Gray/Gray Tabby,0.0,color_Lynx Point/Gray Tabby,0.0
+color_Lynx Point/Cream,0.0,color_Gray/Orange,0.0,color_Lynx Point/Tan,0.0
+color_Lynx Point/Gray,0.0,color_Gray/Tan,0.0,color_Lynx Point/Tortie Point,0.0
+color_Lynx Point/Gray Tabby,0.0,color_Gray/Tortie,0.0,color_White/Orange Tabby,0.0
+color_Lynx Point/Tan,0.0,intake_condition_Space,0.0,color_White/Lynx Point,0.0
+color_Lynx Point/Tortie Point,0.0,color_Lilac Point/Black,0.0,color_Orange Tabby/Apricot,0.0
+color_White/Calico,0.0,color_Sable,0.0,color_Orange Tabby/Black,0.0
+color_White/Buff,0.0,color_Lilac Point/Gray,0.0,color_Orange Tabby/Brown,0.0
+color_White/Brown Brindle,0.0,color_Lilac Point/White,0.0,color_Orange Tabby/Cream,0.0
+color_White/Brown,0.0,color_Lynx Point/Blue,0.0,color_Orange Tabby/Orange,0.0
+color_Orange Tabby/Apricot,0.0,color_Lynx Point/Brown Tabby,0.0,color_Orange Tabby/Orange Tabby,0.0
+color_Orange Tabby/Black,0.0,breed_Abyssinian Mix,0.0,color_Lynx Point/Blue,0.0
+color_Lilac Point/Cream,0.0,color_Lynx Point/Cream,0.0,color_Lilac Point/Cream,0.0
+color_Gray/Tortie,0.0,breed_American Curl Shorthair Mix,0.0,color_White/Tan,0.0
+color_Lilac Point/Black,0.0,color_Silver Tabby/Black,0.0,color_White/Tortie,0.0
+color_Yellow,0.0,color_Sable/White,0.0,color_Flame Point/Cream,0.0
+color_Fawn,0.0,color_Tricolor,0.0,color_Flame Point/White,0.0
+intake_condition_Space,0.0,color_White/Yellow,0.0,intake_condition_Space,0.0
+color_Flame Point/Cream,0.0,color_White/Agouti,0.0,breed_Abyssinian/Domestic Shorthair,0.0
+intake_condition_Behavior,0.0,color_Yellow,0.0,breed_American Curl Shorthair,0.0
+breed_Abyssinian/Domestic Shorthair,0.0,color_Tricolor/White,0.0,color_Gray Tabby/Gray,0.0
+color_Yellow/Orange Tabby,0.0,color_Tricolor/Orange,0.0,color_Gray Tabby/Orange,0.0
+color_Yellow/Orange,0.0,color_Tricolor/Calico,0.0,intake_condition_Behavior,0.0
+color_Gray Tabby/Gray,0.0,color_Tortie/Tortie,0.0,color_Gray/Brown,0.0
+color_Yellow/Cream,0.0,color_White/Black Tabby,0.0,breed_American Curl Shorthair/Japanese Bobtail,0.0
+color_Gray Tabby/Orange,0.0,color_Tortie/Orange,0.0,intake_type_Euthanasia Request,0.0
+color_Gray/Black,0.0,color_Tortie/Gold,0.0,color_Gray/Gray Tabby,0.0
+color_White/Lynx Point,0.0,color_Tortie/Calico,0.0,color_Gray/Orange,0.0
+color_Gray/Brown,0.0,color_Tortie/Brown,0.0,color_Gray/Tan,0.0
+color_White/Yellow,0.0,color_Tortie/Blue Tabby,0.0,color_Gray/Tortie,0.0
+color_White/Tortie,0.0,color_Tortie/Blue Cream,0.0,color_Yellow/Orange Tabby,0.0
+color_White/Silver Tabby,0.0,color_White/Black Smoke,0.0,color_Yellow/Orange,0.0
+color_White/Seal Point,0.0,color_White/Brown Brindle,0.0,color_Yellow/Cream,0.0
+color_Gray/Gray Tabby,0.0,intake_condition_Behavior,0.0,color_Yellow,0.0
+color_Gray/Orange,0.0,color_White/Flame Point,0.0,color_Lilac Point/Black,0.0
+color_Gray/Tan,0.0,color_White/Seal Point,0.0,color_White/Flame Point,0.0
+color_Orange Tabby/Cream,0.0,color_White/Red,0.0,color_Lilac Point/Gray,0.0
+color_White/Red,0.0,color_White/Tortie,0.0,color_White/Yellow,0.0
+color_Orange Tabby/Brown,0.0,color_White/Lynx Point,0.0,color_Orange Tabby/Tortie Point,0.0
+color_Orange Tabby/Tortie Point,0.0,color_White/Lilac Point,0.0,color_Pink,0.0
+color_Orange Tabby/Orange,0.0,color_White/Gray Tabby,0.0,color_Orange Tiger,0.0
+color_Orange Tabby/Orange Tabby,0.0,color_White/Cream Tabby,0.0,color_Tortie/Tortie,0.0
+color_Silver Tabby/White,0.0,color_White/White,0.0,color_Tan/Cream Tabby,0.0
+color_Silver/Silver Tabby,0.0,color_White/Cream,0.0,color_Tan/White,0.0
+color_Tortie/Calico,0.0,color_White/Chocolate Point,0.0,color_Tricolor/White,0.0
+color_Tan,0.0,color_White/Chocolate,0.0,color_Tricolor/Orange,0.0
+color_Tan/Black,0.0,color_White/Calico Point,0.0,color_Tricolor/Calico,0.0
+color_Tortie/Brown,0.0,color_White/Calico,0.0,color_Torbie/Black,0.0
+color_Tortie/Blue Tabby,0.0,color_White/Buff,0.0,color_Torbie/Blue Cream,0.0
+color_Tan/Brown,0.0,color_Tortie/Blue,0.0,color_Torbie/Blue Tabby,0.0
+color_Tan/Chocolate Point,0.0,color_Tortie/Black Smoke,0.0,color_Torbie/Brown,0.0
+color_Tan/Cream Tabby,0.0,breed_American Curl Shorthair/Siamese,0.0,color_Torbie/Brown Tabby,0.0
+color_Tan/White,0.0,color_Silver Lynx Point/White,0.0,color_Tricolor,0.0
+color_Tortie/Blue Cream,0.0,breed_American Curl Shorthair/Japanese Bobtail,0.0,color_Torbie/Gray,0.0
+color_Torbie/Black,0.0,color_Tan/Black,0.0,color_Tan/Chocolate Point,0.0
+color_Tortie/Blue,0.0,color_Tan,0.0,color_Torbie/Silver Tabby,0.0
+color_Torbie/Blue Cream,0.0,color_Silver/Silver Tabby,0.0,color_Tortie/Orange,0.0
+color_Torbie/Blue Tabby,0.0,color_Silver Tabby/White,0.0,color_Tortie/Gold,0.0
+color_Torbie/Brown,0.0,color_White/Silver Tabby,0.0,color_Tortie/Calico,0.0
+color_Torbie/Brown Tabby,0.0,color_Silver Lynx Point,0.0,color_Fawn,0.0
+color_Tortie/Black Smoke,0.0,color_Yellow/Cream,0.0,color_Tortie Point/Blue,0.0
+color_Torbie/Gray,0.0,color_Silver,0.0,color_Tortie Point/Lynx Point,0.0
+color_Torbie/Silver Tabby,0.0,color_Seal Point/White,0.0,color_Tortie Point/Seal Point,0.0
+color_Cream/Tan,0.0,color_Seal Point/Gray,0.0,color_Tortie/Brown,0.0
+color_Tortie Point/Seal Point,0.0,color_Seal Point/Cream,0.0,color_Tortie/Black Smoke,0.0
+color_Silver Tabby/Black,0.0,color_Seal Point/Buff,0.0,color_Tortie/Blue,0.0
+color_Tortie/Gold,0.0,color_Seal Point/Brown,0.0,color_White/Agouti,0.0
+color_Silver Lynx Point/White,0.0,color_Tan/Brown,0.0,color_Tan/Brown,0.0
+color_Tricolor/White,0.0,color_Tan/Chocolate Point,0.0,color_Orange/Orange Tabby,0.0
+color_Tortie Point/Blue,0.0,color_Tan/Cream Tabby,0.0,color_Seal Point/Buff,0.0
+color_White/Black Tabby,0.0,color_Tan/White,0.0,color_White/Cream,0.0
+color_Orange Tiger,0.0,color_Torbie/Black,0.0,color_Tortie/Blue Tabby,0.0
+color_Orange/Orange Tabby,0.0,color_Torbie/Blue Cream,0.0,color_Red,0.0
+color_White/Black Smoke,0.0,color_Torbie/Blue Tabby,0.0,color_Red Tick,0.0
+color_Pink,0.0,color_Torbie/Brown,0.0,color_Red/White,0.0
+color_Red,0.0,color_Cream Tiger/Brown Tabby,0.0,color_Sable,0.0
+color_Red Tick,0.0,color_Torbie/Gray,0.0,color_Sable/White,0.0
+color_White/Agouti,0.0,color_Torbie/Silver Tabby,0.0,color_White/Chocolate Point,0.0
+color_Red/White,0.0,color_Yellow/Orange Tabby,0.0,color_White/Chocolate,0.0
+color_Sable,0.0,color_Yellow/Orange,0.0,color_Seal Point/Brown,0.0
+color_Tortie/Orange,0.0,color_Tortie Point/Blue,0.0,color_White/Calico Point,0.0
+color_Sable/White,0.0,color_Tortie Point/Lynx Point,0.0,color_Seal Point/Cream,0.0
+color_Tricolor/Orange,0.0,color_Tortie Point/Seal Point,0.0,color_Tan/Black,0.0
+color_Tricolor/Calico,0.0,color_Tortie Point/White,0.0,color_Seal Point/Gray,0.0
+color_Tricolor,0.0,color_Torbie/Brown Tabby,0.0,color_White/Buff,0.0
+color_Seal Point/Brown,0.0,color_Calico/Brown Tabby,0.0,color_White/Brown Brindle,0.0
+color_Seal Point/Buff,0.0,color_Cream Tiger,0.0,color_Silver,0.0
+color_Seal Point/Cream,0.0,breed_Tonkinese,0.0,color_Silver Lynx Point/White,0.0
+color_Seal Point/Gray,0.0,breed_Snowshoe,0.0,color_White/Black Tabby,0.0
+color_Tortie/Tortie,0.0,breed_Siamese/Snowshoe,0.0,color_Silver Tabby/Black,0.0
+color_Silver,0.0,breed_Scottish Fold Mix,0.0,color_Silver Tabby/White,0.0
+color_Cream/White,0.0,breed_Ragdoll/Snowshoe,0.0,color_Silver/Silver Tabby,0.0
+breed_American Curl Shorthair,0.0,breed_Ragdoll Mix,0.0,color_White/Black Smoke,0.0
+color_Cream/Seal Point,0.0,breed_Ragdoll,0.0,color_Tan,0.0
+breed_Norwegian Forest Cat Mix,0.0,breed_Pixiebob Shorthair Mix,0.0,breed_American Curl Shorthair/Siamese,0.0
+breed_Scottish Fold Mix,0.0,breed_Pixiebob Shorthair,0.0,color_Calico/Brown,0.0
+breed_Russian Blue,0.0,breed_Persian Mix,0.0,color_Cream/Tan,0.0
+breed_Ragdoll/Snowshoe,0.0,breed_Persian,0.0,breed_Oriental Sh Mix,0.0
+breed_Pixiebob Shorthair Mix,0.0,breed_Oriental Sh Mix,0.0,breed_Tonkinese,0.0
+breed_Pixiebob Shorthair,0.0,breed_Ocicat Mix,0.0,breed_Sphynx,0.0
+breed_Oriental Sh Mix,0.0,breed_Norwegian Forest Cat Mix,0.0,breed_Siamese/Snowshoe,0.0
+breed_Ocicat Mix,0.0,breed_Munchkin Shorthair Mix,0.0,breed_Scottish Fold Mix,0.0
+breed_Munchkin Shorthair Mix,0.0,breed_Munchkin Longhair/Ragdoll,0.0,breed_Ragdoll/Snowshoe,0.0
+breed_Sphynx,0.0,breed_Munchkin Longhair Mix,0.0,breed_Pixiebob Shorthair Mix,0.0
+breed_Munchkin Longhair/Ragdoll,0.0,breed_Manx/Siamese,0.0,breed_Pixiebob Shorthair,0.0
+breed_Munchkin Longhair Mix,0.0,breed_Sphynx,0.0,breed_Ocicat Mix,0.0
+breed_Manx/Siamese,0.0,breed_Tonkinese Mix,0.0,breed_Turkish Angora,0.0
+breed_Manx Mix,0.0,breed_Maine Coon,0.0,breed_Norwegian Forest Cat Mix,0.0
+breed_Javanese Mix,0.0,breed_Turkish Angora,0.0,breed_Munchkin Shorthair Mix,0.0
+breed_Japanese Bobtail/Siamese,0.0,color_Black/Black Tabby,0.0,breed_Munchkin Longhair/Ragdoll,0.0
+breed_Japanese Bobtail Mix,0.0,color_Black/Black Smoke,0.0,breed_Munchkin Longhair Mix,0.0
+breed_Siamese/Snowshoe,0.0,color_Black Tiger/White,0.0,breed_Manx/Siamese,0.0
+breed_Tonkinese,0.0,color_Black Tiger,0.0,breed_Javanese Mix,0.0
+breed_Havana Brown,0.0,color_Black Tabby/Gray Tabby,0.0,breed_Japanese Bobtail/Siamese,0.0
+color_Black Smoke/Brown Tabby,0.0,color_Black Tabby/Black,0.0,breed_Tonkinese Mix,0.0
+color_Black/Blue,0.0,color_Black Smoke/Brown Tabby,0.0,color_Agouti,0.0
+color_Black/Black Tabby,0.0,color_Black Smoke/Black Tiger,0.0,color_Cream/Seal Point,0.0
+color_Black/Black Smoke,0.0,color_Black Brindle,0.0,color_Black Tabby/Gray Tabby,0.0
+color_Black Tiger/White,0.0,color_Apricot/White,0.0,color_Black/Chocolate,0.0
+color_Black Tiger,0.0,color_Apricot,0.0,color_Black/Brown Tabby,0.0
+color_Black Tabby/Gray Tabby,0.0,color_Agouti/White,0.0,color_Black/Blue,0.0
+color_Black Tabby/Black,0.0,color_Agouti/Cream,0.0,color_Black/Black Tabby,0.0
+color_Black Smoke/Black Tiger,0.0,color_Agouti/Brown Tabby,0.0,color_Black/Black Smoke,0.0
+breed_Tonkinese Mix,0.0,color_Agouti,0.0,color_Black Tiger/White,0.0
+color_Black Brindle,0.0,breed_Turkish Van Mix,0.0,color_Black Tiger,0.0
+color_Apricot/White,0.0,breed_Turkish Angora Mix,0.0,color_Black Tabby/Black,0.0
+color_Apricot,0.0,breed_Manx,0.0,color_Agouti/Brown Tabby,0.0
+color_Agouti/White,0.0,breed_Javanese Mix,0.0,color_Black Smoke/Brown Tabby,0.0
+color_Agouti/Cream,0.0,color_Cream Tabby/Orange Tabby,0.0,color_Black Smoke/Black Tiger,0.0
+color_Agouti/Brown Tabby,0.0,breed_Domestic Longhair/Manx,0.0,color_Black Brindle,0.0
+breed_Turkish Angora,0.0,breed_Devon Rex Mix,0.0,color_Apricot/White,0.0
+breed_Havana Brown Mix,0.0,breed_Devon Rex,0.0,color_Apricot,0.0
+breed_Exotic Shorthair Mix,0.0,breed_Cymric Mix,0.0,color_Agouti/White,0.0
+color_Black/Chocolate,0.0,breed_Cornish Rex Mix,0.0,color_Agouti/Cream,0.0
+breed_Bengal Mix,0.0,breed_Colorpoint Mix,0.0,breed_Japanese Bobtail Mix,0.0
+breed_Burmese Mix,0.0,breed_Chartreux Mix,0.0,breed_Himalayan,0.0
+breed_Burmese,0.0,breed_Burmese Mix,0.0,breed_Havana Brown Mix,0.0
+breed_British Shorthair/Domestic Shorthair,0.0,breed_Burmese,0.0,breed_British Shorthair,0.0
+breed_British Shorthair Mix,0.0,breed_British Shorthair/Domestic Shorthair,0.0,breed_Cornish Rex Mix,0.0
+breed_British Shorthair,0.0,breed_British Shorthair Mix,0.0,breed_Colorpoint Mix,0.0
+breed_Bombay Mix,0.0,breed_British Shorthair,0.0,breed_Chartreux Mix,0.0
+breed_Bengal/Domestic Shorthair,0.0,breed_Bombay Mix,0.0,breed_Burmese Mix,0.0
+breed_Bengal,0.0,breed_Bengal/Domestic Shorthair,0.0,breed_Burmese,0.0
+breed_Colorpoint Mix,0.0,breed_Bengal Mix,0.0,breed_British Shorthair/Domestic Shorthair,0.0
+breed_Balinese Mix,0.0,breed_Bengal,0.0,breed_British Shorthair Mix,0.0
+breed_Balinese,0.0,breed_Balinese,0.0,breed_Bombay Mix,0.0
+breed_Angora Mix,0.0,breed_Angora Mix,0.0,breed_Havana Brown,0.0
+breed_American Wirehair Mix,0.0,breed_Domestic Longhair/Domestic Longhair,0.0,breed_Bengal/Domestic Shorthair,0.0
+breed_American Shorthair,0.0,breed_Domestic Longhair/Persian,0.0,breed_Bengal Mix,0.0
+breed_American Curl Shorthair/Siamese,0.0,breed_Japanese Bobtail/Siamese,0.0,breed_Bengal,0.0
+breed_American Curl Shorthair/Japanese Bobtail,0.0,breed_Domestic Longhair/Rex,0.0,breed_Balinese Mix,0.0
+breed_Chartreux Mix,0.0,breed_Japanese Bobtail Mix,0.0,breed_Balinese,0.0
+breed_Cornish Rex Mix,0.0,breed_Himalayan Mix,0.0,breed_Angora Mix,0.0
+breed_Exotic Shorthair,0.0,breed_Himalayan,0.0,breed_American Wirehair Mix,0.0
+breed_Domestic Medium Hair/Manx,0.0,breed_Havana Brown Mix,0.0,breed_Cymric Mix,0.0
+breed_Domestic Shorthair/Snowshoe,0.0,breed_Havana Brown,0.0,breed_Devon Rex,0.0
+breed_Domestic Shorthair/Siamese,0.0,breed_Exotic Shorthair Mix,0.0,breed_Devon Rex Mix,0.0
+breed_Domestic Shorthair/Scottish Fold,0.0,breed_Exotic Shorthair,0.0,breed_Domestic Longhair/Domestic Longhair,0.0
+breed_Domestic Shorthair/Manx,0.0,breed_Domestic Shorthair/Snowshoe,0.0,breed_Exotic Shorthair Mix,0.0
+breed_Domestic Shorthair/Maine Coon,0.0,breed_Domestic Shorthair/Siamese,0.0,breed_Exotic Shorthair,0.0
+breed_Domestic Shorthair/Domestic Shorthair,0.0,breed_Domestic Shorthair/Scottish Fold,0.0,breed_Domestic Shorthair/Snowshoe,0.0
+breed_Domestic Medium Hair/Siamese,0.0,breed_Domestic Shorthair/Manx,0.0,breed_Domestic Shorthair/Siamese,0.0
+breed_Domestic Longhair/Siamese,0.0,breed_Domestic Shorthair/Maine Coon,0.0,breed_Domestic Shorthair/Scottish Fold,0.0
+breed_Cymric Mix,0.0,breed_Domestic Shorthair/Domestic Shorthair,0.0,breed_Domestic Shorthair/Manx,0.0
+breed_Domestic Longhair/Russian Blue,0.0,breed_Domestic Medium Hair/Siamese,0.0,breed_Domestic Shorthair/Maine Coon,0.0
+breed_Domestic Longhair/Rex,0.0,breed_Domestic Medium Hair/Manx,0.0,breed_Domestic Shorthair/Domestic Shorthair,0.0
+breed_Domestic Longhair/Persian,0.0,breed_Domestic Longhair/Siamese,0.0,breed_Domestic Medium Hair/Siamese,0.0
+breed_Domestic Longhair/Manx,0.0,breed_Domestic Longhair/Russian Blue,0.0,breed_Domestic Medium Hair/Manx,0.0
+breed_Domestic Longhair/Domestic Longhair,0.0,color_Black/Blue,0.0,breed_Domestic Longhair/Siamese,0.0
+breed_Devon Rex Mix,0.0,color_Black/Brown,0.0,breed_Domestic Longhair/Russian Blue,0.0
+breed_Devon Rex,0.0,color_Black/Brown Tabby,0.0,breed_Domestic Longhair/Rex,0.0
+color_Black/Brown Tabby,0.0,color_Calico Point,0.0,breed_Domestic Longhair/Persian,0.0
+color_Black/Gray,0.0,color_Buff,0.0,breed_Domestic Longhair/Manx,0.0
+color_Cream/Orange,0.0,color_Brown/White,0.0,color_Black/Gray Tabby,0.0
+color_Brown/Buff,0.0,color_Brown/Seal Point,0.0,color_Black/Silver,0.0
+color_Calico Point/White,0.0,color_Brown/Orange,0.0,color_Black/Silver Tabby,0.0
+color_Calico Point/Gray,0.0,color_Brown/Gray,0.0,color_Brown/Orange,0.0
+color_Buff/White,0.0,color_Brown/Cream,0.0,color_Calico/Brown Tabby,0.0
+color_Brown/Seal Point,0.0,color_Brown/Buff,0.0,color_Calico/Blue Cream,0.0
+color_Brown/Orange,0.0,color_Brown/Brown Tabby,0.0,color_Calico Point/White,0.0
+color_Brown/Gray,0.0,color_Brown/Brown Brindle,0.0,breed_Abyssinian,0.0
+color_Brown/Cream,0.0,color_Brown/Black Tabby,0.0,color_Calico Point/Gray,0.0
+color_Brown/Brown Tabby,0.0,color_Brown Tiger/White,0.0,color_Buff/White,0.0
+color_Calico/Brown,0.0,color_Brown Tiger,0.0,color_Brown/Seal Point,0.0
+color_Brown/Brown Brindle,0.0,color_Brown Tabby/Tortie,0.0,color_Brown/Gray,0.0
+color_Brown/Black Tabby,0.0,color_Brown Tabby/Silver,0.0,color_Brown Tabby/Silver,0.0
+color_Brown/Black,0.0,color_Brown Tabby/Red,0.0,color_Brown/Cream,0.0
+color_Brown Tiger/White,0.0,color_Brown Tabby/Orange Tabby,0.0,color_Brown/Buff,0.0
+color_Brown Tiger,0.0,color_Brown Tabby/Orange,0.0,color_Brown/Brown Tabby,0.0
+color_Brown Tabby/Tortie,0.0,color_Buff/White,0.0,color_Brown/Brown Brindle,0.0
+color_Brown Tabby/Silver,0.0,color_Calico Point/Gray,0.0,color_Brown/Black Tabby,0.0
+color_Calico/Blue Cream,0.0,color_Black/Chocolate,0.0,color_Brown Tiger/White,0.0
+color_Calico/Brown Tabby,0.0,breed_Abyssinian,0.0,color_Brown Tiger,0.0
+color_Brown Tabby/Orange Tabby,0.0,color_Cream Tabby/Orange,0.0,color_Calico/Calico,0.0
+color_Cream Tabby/Cream Tabby,0.0,color_Cream Tabby/Cream Tabby,0.0,color_Calico/Gray Tabby,0.0
+color_Cream/Gray,0.0,color_Chocolate/White,0.0,color_Calico/Orange,0.0
+color_Cream/Blue Point,0.0,color_Chocolate/Seal Point,0.0,color_Calico/Tricolor,0.0
+color_Cream/Black,0.0,color_Chocolate/Brown Tabby,0.0,color_Cream/Orange,0.0
+color_Cream Tiger/Brown Tabby,0.0,color_Chocolate Point/White,0.0,color_Cream/Gray,0.0
+color_Cream Tiger,0.0,color_Chocolate Point/Cream,0.0,color_Cream/Blue Point,0.0
+color_Cream Tabby/Orange Tabby,0.0,color_Chocolate,0.0,color_Cream/Black,0.0
+color_Cream Tabby/Orange,0.0,color_Calico/Tricolor,0.0,color_Cream Tiger/Brown Tabby,0.0
+color_Chocolate/White,0.0,color_Calico/Orange,0.0,color_Cream Tiger,0.0
+color_Calico/Calico,0.0,color_Calico/Gray Tabby,0.0,color_Cream Tabby/Orange Tabby,0.0
+color_Chocolate/Seal Point,0.0,color_Calico/Calico,0.0,color_Cream Tabby/Orange,0.0
+color_Chocolate/Brown Tabby,0.0,breed_American Wirehair Mix,0.0,color_Cream Tabby/Cream Tabby,0.0
+color_Chocolate Point/White,0.0,color_Calico/Brown,0.0,color_Cream,0.0
+color_Chocolate Point/Cream,0.0,color_Calico/Blue Cream,0.0,color_Chocolate/White,0.0
+color_Calico/Tricolor,0.0,color_Calico/Black,0.0,color_Chocolate/Seal Point,0.0
+color_Calico/Orange,0.0,color_Calico Point/White,0.0,color_Chocolate/Brown Tabby,0.0
+color_Calico/Gray Tabby,0.0,color_Brown Tabby/Lynx Point,0.0,color_Chocolate Point/White,0.0
+color_Brown Tabby/Red,0.0,color_Brown Tabby/Gray Tabby,0.0,color_Chocolate Point/Cream,0.0
+color_Brown Tabby/Orange,0.0,color_Brown Tabby/Gray,0.0,color_Brown Tabby/Tortie,0.0
+color_Black/Gray Tabby,0.0,color_Brown Tabby/Calico,0.0,color_Brown Tabby/Red,0.0
+color_Blue Cream/White,0.0,color_Blue Tabby/Blue Cream,0.0,color_Black/Tortie,0.0
+color_Blue Tabby/Buff,0.0,color_Blue Tabby/Black,0.0,color_Blue Smoke/White,0.0
+color_Blue Tabby/Brown,0.0,color_Blue Smoke/White,0.0,color_Blue Tabby/Tortie,0.0
+color_Blue Tabby/Blue Cream,0.0,color_Blue Smoke/Gray,0.0,color_Blue Tabby/Tan,0.0
+color_Blue Tabby/Black,0.0,color_Blue Smoke,0.0,color_Blue Tabby/Orange,0.0
+color_Blue Smoke/White,0.0,color_Blue Point/White,0.0,color_Blue Tabby/Buff,0.0
+color_Blue Smoke/Gray,0.0,color_Blue Point/Cream,0.0,color_Blue Tabby/Brown,0.0
+color_Blue Point/Cream,0.0,color_Blue Cream/White,0.0,color_Blue Tabby/Blue Cream,0.0
+color_Blue Cream/Tortie,0.0,color_Blue Cream/Tortie,0.0,color_Blue Tabby/Black,0.0
+color_Blue Tabby/Tan,0.0,color_Blue Cream/Buff,0.0,color_Blue Smoke/Gray,0.0
+color_Blue Cream/Buff,0.0,color_Blue Cream/Blue Tabby,0.0,color_Brown Tabby/Orange Tabby,0.0
+color_Blue Cream/Blue Tabby,0.0,color_Black/Tricolor,0.0,color_Blue Point/Cream,0.0
+color_Blue Cream,0.0,color_Black/Tortie,0.0,color_Blue Cream/White,0.0
+color_Black/Tricolor,0.0,color_Black/Silver Tabby,0.0,color_Blue Cream/Tortie,0.0
+color_Black/Tortie,0.0,color_Black/Silver,0.0,color_Blue Cream/Buff,0.0
+color_Black/Silver Tabby,0.0,color_Black/Orange,0.0,color_Blue Cream/Blue Tabby,0.0
+color_Black/Silver,0.0,color_Black/Gray Tabby,0.0,color_Blue Cream,0.0
+color_Blue Tabby/Orange,0.0,color_Blue Tabby/Brown,0.0,color_Black/Tricolor,0.0
+color_Blue Tabby/Tortie,0.0,color_Blue Tabby/Buff,0.0,color_Blue/Blue,0.0
+color_Brown Tabby/Lynx Point,0.0,color_Blue Tabby/Cream,0.0,color_Blue/Brown,0.0
+color_Brown Tabby/Black Brindle,0.0,color_Brown Merle,0.0,color_Blue/Calico,0.0
+color_Brown Tabby/Gray Tabby,0.0,color_Brown Tabby/Brown Tabby,0.0,color_Blue/Cream,0.0
+color_Brown Tabby/Gray,0.0,color_Brown Tabby/Brown,0.0,color_Brown Tabby/Orange,0.0
+color_Brown Tabby/Calico,0.0,color_Brown Tabby/Blue,0.0,color_Brown Tabby/Lynx Point,0.0
+color_Brown Tabby/Brown Tabby,0.0,color_Brown Tabby/Black Tabby,0.0,color_Brown Tabby/Gray Tabby,0.0
+color_Brown Tabby/Brown,0.0,color_Brown Tabby/Black Brindle,0.0,color_Brown Tabby/Gray,0.0
+color_Brown Tabby/Blue,0.0,color_Brown Tabby/Agouti,0.0,color_Brown Tabby/Calico,0.0
+color_Brown Tabby/Black Tabby,0.0,color_Brown Merle/Brown Tabby,0.0,color_Brown Tabby/Brown Tabby,0.0
+color_Brown Tabby/Agouti,0.0,color_Brown Brindle,0.0,color_Brown Tabby/Brown,0.0
+color_Blue/Blue,0.0,color_Blue Tabby/Orange,0.0,color_Brown Tabby/Blue,0.0
+color_Brown Merle/Brown Tabby,0.0,color_Blue/Tortie,0.0,color_Brown Tabby/Black Tabby,0.0
+color_Brown Merle,0.0,color_Blue/Cream,0.0,color_Brown Tabby/Black Brindle,0.0
+color_Brown Brindle,0.0,color_Blue/Calico,0.0,color_Brown Tabby/Agouti,0.0
+color_Blue/Tortie,0.0,color_Blue/Brown,0.0,color_Brown Merle/Brown Tabby,0.0
+color_Blue/Cream,0.0,color_Blue/Blue,0.0,color_Brown Merle,0.0
+color_Blue/Calico,0.0,color_Blue Tabby/Tortie,0.0,color_Brown Brindle,0.0
+color_Blue/Brown,0.0,color_Blue Tabby/Tan,0.0,color_Blue/Tortie,0.0
+color_Calico Point/Lynx Point,0.0,color_Calico Point/Lynx Point,0.0,color_Calico Point/Lynx Point,0.0

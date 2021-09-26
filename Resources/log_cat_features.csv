@@ -1,0 +1,382 @@
+adopt_feature,adopt_importance,euth_feature,euth_importance,transfer_feature,transfer_importance
+sex_upon_intake_Unknown,5.105791606683702,age_upon_intake_in_days,2.940618502306403,age_upon_intake_in_days,2.102219612206921
+age_upon_intake_in_days,3.569140648520405,intake_condition_Injured,1.6922299327392656,sex_upon_intake_Unknown,1.7864116323158097
+intake_condition_Neonatal,1.7433035051822883,intake_condition_Sick,1.3258713734897059,intake_condition_Neonatal,1.7060635024250177
+sex_upon_intake_Spayed Female,1.5757431154639334,color_Torbie/White,1.2600471393955248,breed_Maine Coon,1.3521252140679063
+sex_upon_intake_Neutered Male,1.3971997622560484,color_Orange Tabby/Brown,1.117555527308748,color_Chocolate Point/White,1.259864562547106
+color_Brown Tabby/Silver,1.3959999416683226,intake_type_Euthanasia Request,1.0832495428766415,color_Brown Tabby/Silver,1.2538738651732213
+breed_Maine Coon,1.3566537266969323,intake_condition_Normal,1.0647092978121888,intake_condition_Space,1.1727091003733723
+color_Chocolate Point/White,1.2170681285306229,color_Tortie/Black,1.026331057365912,intake_condition_Injured,1.1102582879828193
+color_Tortie/Tortie,1.1045997209512086,color_Brown/Black,0.9640772905504298,breed_Manx,1.1032319631060403
+breed_Munchkin Longhair/Ragdoll,1.0899697972491544,breed_Exotic Shorthair,0.9607691523614457,breed_Colorpoint Mix,1.0482367389592686
+sex_upon_intake_Intact Male,1.0550125515120352,color_Apricot/White,0.9593481539478336,color_Brown Tabby/Black,1.0425447822680052
+breed_Turkish Angora Mix,1.050525610399389,breed_Ragdoll/Snowshoe,0.8807079431409092,intake_condition_Aged,1.032345994156394
+intake_type_Euthanasia Request,1.0471708145807261,color_White/Cream,0.8518325842214512,color_Chocolate/Brown Tabby,1.0226652101326288
+breed_Colorpoint Mix,1.045752155028616,sex_upon_intake_Unknown,0.8212342150300768,breed_Munchkin Longhair/Ragdoll,1.0155764892738264
+color_Lynx Point/Tortie Point,1.0283390763777842,breed_American Shorthair,0.8144131131605998,color_Gray/Gray,1.0113202184786458
+intake_condition_Space,1.028064112274079,breed_Turkish Angora Mix,0.8109124527355822,color_Brown/Black,1.0046978898462278
+color_Orange,1.0085312158580584,color_Tortie/Blue Cream,0.8086660810703246,color_Buff,0.995703288558883
+breed_Manx,0.9964445850186103,intake_condition_Medical,0.7902414749095718,color_White/Chocolate Point,0.9765838783576362
+breed_American Shorthair Mix,0.9950375123487862,intake_condition_Neonatal,0.7727481753192147,color_Black/Tortie,0.9536456312192776
+sex_upon_intake_Intact Female,0.9849952589444783,color_Tortie/White,0.7583614894277362,breed_Munchkin Longhair Mix,0.9437616076186722
+color_Gray/White,0.9830030765847186,breed_Cornish Rex Mix,0.7303238998678202,color_Black/Gray,0.9425456857021166
+intake_condition_Aged,0.9767830145211231,color_Lilac Point,0.7034183457188857,color_Gray Tabby/Gray,0.889402234018981
+color_Buff,0.9714961479692487,color_Brown Tabby/Red,0.701766995782259,color_Brown Tabby/Orange,0.8884917964192538
+color_Brown Tabby/Orange,0.965701505283997,intake_condition_Nursing,0.7010429961271819,color_Brown Tabby/Tortie,0.8696861102579673
+color_Orange Tiger,0.9559474753773525,intake_condition_Other,0.7006934791500304,color_Blue Point/White,0.8675034902640139
+color_Brown Tabby/Tortie,0.9477521677987385,color_Cream/White,0.691127756858049,color_Black/Gray Tabby,0.8608999142309974
+color_Chocolate/Brown Tabby,0.9413607073628657,breed_Balinese Mix,0.6807196642307033,color_Gray/Orange,0.8443932650661148
+breed_Ragdoll/Snowshoe,0.9340809986412307,breed_American Shorthair Mix,0.677196737190749,color_Lynx Point/Tortie Point,0.8436590790244645
+breed_Munchkin Longhair Mix,0.9187635309935305,breed_Domestic Medium Hair Mix,0.6771169602515921,color_Tan/Brown,0.8396187750863963
+breed_Ragdoll,0.9183534537944742,color_White/Tan,0.6764190142337168,color_Lilac Point/Cream,0.8344679079728557
+color_Black/Orange,0.9178433680850931,color_Cream,0.6463111237888031,color_Gray/White,0.8258531952907853
+color_Blue Smoke,0.8984261102795802,breed_Domestic Shorthair Mix,0.6313665850086443,color_Tortie/Tortie,0.8182094809664366
+color_Gray/Gray,0.8974341031692905,breed_Himalayan,0.6135086564889343,breed_American Shorthair Mix,0.8051619087343821
+color_Gray Tabby/Gray,0.8946072152657941,color_White/Tortie,0.6110230152090514,color_Black/Silver,0.7895763627044442
+color_White/Chocolate Point,0.8923158630268639,color_Blue Cream/White,0.6012084355188042,breed_Russian Blue,0.7894121018860442
+color_Brown Tabby/Black,0.8786925463433469,intake_type_Abandoned,0.5965701976883027,color_Tortie/Blue Cream,0.776362431777939
+color_Blue Point/White,0.8347284920136702,color_Black/Tortie,0.596197748646889,color_Torbie/Brown,0.7707324360717824
+breed_Bombay Mix,0.8188136820315535,color_Black/Gray,0.595850409570737,intake_condition_Medical,0.7381917054420764
+color_Orange Tabby/Cream,0.8114115737328926,color_White/Seal Point,0.5795208229623359,breed_Turkish Van Mix,0.7335079260213241
+intake_condition_Normal,0.8113487016650692,breed_Domestic Longhair Mix,0.5779438913027378,color_Brown/White,0.7301659887450757
+color_White/Lynx Point,0.7896563695751466,color_Cream Tiger,0.5597628880569185,color_Black/Orange,0.7086377081610125
+color_Gray Tabby,0.7751421091112671,color_White/Yellow,0.5597628880569185,color_Seal Point/Brown,0.7053490538013486
+color_Black/Gray Tabby,0.7525668625447226,color_Gray/Brown,0.5595462138584394,color_Black/Black Tabby,0.7017507853881942
+color_Calico/White,0.725905221363854,color_Seal Point,0.5569588845097254,color_Orange Tiger,0.6979617119750298
+intake_type_Owner Surrender,0.7196622084432385,color_Tan,0.5497813619684829,sex_upon_intake_Spayed Female,0.6974673053497226
+breed_Persian Mix,0.7180376619276827,color_Lilac Point/Cream,0.5490858872372126,color_Cream/Black,0.6834541559749592
+color_Gray,0.7151067960668359,color_Cream Tabby,0.5490152266683531,breed_Domestic Longhair/Siamese,0.6798642969854346
+color_Blue Cream/White,0.7118876747366137,color_Tricolor/Orange,0.5471001917985405,color_Blue Smoke,0.6706488656159078
+color_Seal Point/Brown,0.708722967258167,color_Gray Tabby/Black,0.5434099292433494,color_Gray/Black,0.6681121675631487
+breed_Turkish Van Mix,0.7068794642853808,breed_Russian Blue,0.5365382430063105,color_Calico/Orange,0.6654659628208291
+color_Cream Tabby/Orange Tabby,0.7041793970056818,color_Silver,0.5340206058054858,color_White/White,0.6500679810094803
+color_Gray/Black,0.6951924538998664,color_Calico Point,0.531787374072807,color_Orange,0.6441728572704297
+breed_Domestic Longhair/Siamese,0.6892902422291971,breed_Manx Mix,0.527284637048819,color_Gray Tabby,0.6354225948473811
+color_Calico/Blue Cream,0.6853241771290483,color_Tan/Black,0.5198318427000197,breed_Ragdoll,0.6339533474560319
+color_Silver Lynx Point/White,0.6803196384775859,color_Calico/Gray Tabby,0.5197589403322581,color_Orange Tabby/Apricot,0.6285159887009767
+breed_Domestic Shorthair/Domestic Shorthair,0.6796906238535325,color_Tortie Point,0.5165067434441233,color_Flame Point/Cream,0.6281038738898133
+breed_Burmese,0.6764441101160026,color_Brown Tiger,0.5090088541583827,breed_Turkish Angora Mix,0.6201169751037493
+color_Black Tiger,0.667027007969678,color_Black Brindle,0.5006031357032802,color_Cream Tabby/Orange,0.6197651637374143
+color_Blue Tabby/Cream,0.6572068412237101,breed_Persian Mix,0.49918050158147564,color_Red,0.6154187077557263
+breed_Persian,0.6550945914245787,color_Black Smoke,0.4991549413523411,color_Calico/Blue Cream,0.6096635458991531
+color_Black/Brown,0.6515358551890669,color_White/Gray Tabby,0.49000294330436966,color_Tortie/Blue,0.6060807704509319
+color_Tricolor,0.6382360503516634,breed_Russian Blue Mix,0.4886186265498768,color_Black Tiger,0.6060282109864832
+color_Chocolate,0.6335076357040575,color_Flame Point/White,0.4787083048944192,breed_Domestic Shorthair/Domestic Shorthair,0.6035396603818678
+breed_Devon Rex Mix,0.6331897519342349,color_Black/Orange,0.4760123981686541,color_Blue Tabby/Orange,0.6028996423302885
+color_White/Red,0.6268942797574223,color_Tan/Brown,0.47023367480365197,color_Brown Tabby/Brown Tabby,0.5989868803452492
+breed_Russian Blue Mix,0.6213530324349198,intake_condition_Feral,0.46331910302946067,breed_Bombay Mix,0.5963213349712739
+color_Blue Tabby/White,0.6183188944548214,color_Brown/White,0.46308880604110375,color_Tan,0.5928417305529353
+color_Cream Tabby/Orange,0.6115174858265916,color_Brown/Buff,0.4625728791553908,color_Blue Tabby/Tortie,0.587911371570565
+breed_Domestic Shorthair Mix,0.6107351177530158,color_Red/White,0.4607611258398656,color_Tricolor/White,0.5793417899155026
+color_Flame Point/Cream,0.6055774453185337,color_White/Buff,0.4601858862579396,color_Tan/Chocolate Point,0.5737781036479364
+color_Tortie Point/White,0.6034975567513503,color_Chocolate Point,0.4539223136888649,color_Chocolate Point,0.5721170186239596
+color_Orange/White,0.5993119397480999,color_Red,0.43843551743579284,breed_Devon Rex Mix,0.5689556134878092
+color_Chocolate/White,0.5965501258285247,color_Black Smoke/Black Tiger,0.43424766114825286,color_Orange Tabby/Orange Tabby,0.5571161330211845
+color_Black/Tortie,0.5921784416738942,color_Blue/Blue,0.43361678714138996,color_Blue Tabby/Cream,0.5549164293550479
+color_Brown/White,0.5889909643557847,color_Blue/White,0.4322230847589188,color_Calico/White,0.5531022499495828
+intake_condition_Medical,0.587694664337976,color_Silver Lynx Point,0.4279123160399704,color_Chocolate,0.5526263348504548
+color_Brown/Seal Point,0.5850967002976812,color_White/Orange,0.4233765256721993,intake_type_Euthanasia Request,0.5480231429907799
+color_White/Tortie,0.5746619547835176,color_Calico/White,0.42221561397176577,color_Brown/Seal Point,0.5322518419746511
+breed_Norwegian Forest Cat Mix,0.5739907740021752,breed_Manx,0.4121108912775312,breed_Persian Mix,0.5306846211164206
+color_Orange/Orange Tabby,0.5738727442091527,color_Brown/Brown Brindle,0.41085716754075596,breed_Norwegian Forest Cat Mix,0.5290479548050419
+color_Chocolate Point,0.5730756666349944,color_Buff/White,0.397695904149275,color_Chocolate/White,0.526991664289874
+color_Calico/Orange,0.5593244475532576,color_Silver Tabby,0.3915305085143447,breed_Russian Blue Mix,0.5233445896281818
+color_Lynx Point/Tan,0.5572680763569341,color_Brown Tabby/Brown,0.3880439886422531,color_Orange Tabby/Cream,0.5232323788915387
+color_Torbie/Brown,0.5557406463686364,color_Cream/Brown,0.3804791538982217,intake_type_Stray,0.5222566549160669
+color_Blue Tabby/Orange,0.5525031957729278,color_Silver Tabby/White,0.37961842716397803,intake_condition_Feral,0.5218183586188901
+color_White/Agouti,0.546988636061229,breed_Burmese Mix,0.37414005122148314,breed_Siamese/Snowshoe,0.5173417383203164
+color_Yellow/Cream,0.5431278278621244,color_Orange Tabby/Apricot,0.3732776381853822,breed_Exotic Shorthair Mix,0.5128380701685383
+color_Torbie/White,0.5408784060225289,intake_type_Owner Surrender,0.3714706828970366,color_Cream/Tan,0.5050886327574687
+color_White/Lilac Point,0.5376646189352791,sex_upon_intake_Neutered Male,0.3609010422664979,color_Seal Point/Gray,0.504157339289725
+breed_Siamese/Snowshoe,0.5365592455199477,color_Brown/Gray,0.3556874698413659,sex_upon_intake_Neutered Male,0.5018223855284302
+color_White/Buff,0.5279127835225171,color_Black Tabby/Gray Tabby,0.35534798930693823,color_Black/Blue,0.5016222439241695
+color_White/Brown Brindle,0.5199382697735045,color_Tortie Point/White,0.3511854536473267,intake_condition_Sick,0.499961731127227
+color_Tortie/Blue,0.5170236248522065,color_Brown,0.3497503739128408,breed_Tonkinese Mix,0.49885153375405555
+color_Blue Tabby/Brown,0.5166802058705184,color_Brown/Brown Tabby,0.3437500421597407,color_White/Lilac Point,0.49767995168020224
+color_Black Brindle,0.5015532468216573,color_Calico Point/White,0.3387814761631627,color_Cream/Gray,0.4976018698029797
+color_Cream/Black,0.5003819759633025,color_Cream/Tan,0.338441108025046,color_Yellow/Cream,0.49667535717646627
+breed_Russian Blue,0.4940124801908353,color_Tan/Cream Tabby,0.33779587649401194,color_Seal Point/Buff,0.4948617085188965
+color_Tan/Brown,0.4902140159135493,color_Orange Tabby/Cream,0.33272875215246495,color_Blue Cream/Tortie,0.4900303433541562
+color_Cream/Gray,0.4897072748263876,color_Black/Black,0.33190239282167644,breed_Cornish Rex Mix,0.48988699847975453
+color_Seal Point/Gray,0.48903223956253117,color_White/Calico,0.3279824628888624,color_White/Agouti,0.48727123478858847
+breed_Siamese Mix,0.48655643625829825,color_Black Tabby,0.3257140428123295,breed_Persian,0.4845105118180323
+breed_Domestic Shorthair,0.4831372488811502,breed_Ragdoll Mix,0.32246000373331857,color_Blue Tabby/White,0.48098904050243596
+color_Apricot/White,0.4813692759911017,breed_Tonkinese Mix,0.3202384471575131,breed_Snowshoe,0.4732167330554658
+color_Lynx Point/Gray,0.4791390452379255,breed_Bengal,0.3183901589998745,color_Lynx Point/Gray,0.4696592431706056
+color_Blue/Tortie,0.46666831277151277,color_Torbie/Brown Tabby,0.31815370906122536,color_Black/Tricolor,0.4567485430065385
+color_Blue Tabby/Black,0.4566058092497808,color_White/Brown,0.3178711189530754,color_Orange/White,0.45382877577274894
+color_Seal Point/Buff,0.45537474918837595,color_Orange Tabby/White,0.3167685357400408,color_White/Lynx Point,0.4525430891351492
+color_Black/Black Tabby,0.4553071076175431,breed_Abyssinian Mix,0.3111778151389737,color_Orange Tabby/Brown,0.45187260536669827
+color_Cream/Blue Point,0.44749311009180126,color_Lynx Point/White,0.30629035340813643,color_Seal Point/Cream,0.44386579555383465
+color_Brown/Brown Tabby,0.4474639716730628,color_Cream/Seal Point,0.30325900256825056,breed_Domestic Shorthair Mix,0.4431170089156825
+color_Blue Cream/Tortie,0.4472101509041956,color_Black Tabby/White,0.3027335834577108,color_Black/Brown,0.44072207156605747
+color_Gray Tabby/Black,0.4441098965789504,breed_Himalayan Mix,0.2992885792843196,color_Blue Tabby/Buff,0.44000409107108646
+color_Blue/Blue,0.4430069918534849,breed_Maine Coon Mix,0.29799180022502775,color_Torbie/Silver Tabby,0.4395400259268611
+color_Black/Blue,0.44189345313292244,breed_Domestic Shorthair,0.2950619290686322,breed_Angora Mix,0.4350329958028918
+breed_Angora Mix,0.44042258844554577,color_Lynx Point,0.2947397917979026,color_Tortie Point/Lynx Point,0.42838023453045315
+breed_Exotic Shorthair,0.43937566075093293,color_Brown Tabby/Black,0.29384438297287346,breed_American Curl Shorthair Mix,0.4280896447042436
+color_Cream,0.4366185403548816,color_Lynx Point/Tan,0.29118031119664267,color_Gray/Tan,0.42237383904302916
+color_Black Smoke,0.4363102430150639,color_White/Blue Tabby,0.28988866183931034,color_Buff/White,0.42175466234970993
+color_Tortie Point/Blue,0.43609353815526775,color_Calico/Calico,0.28729955030939863,breed_Oriental Sh Mix,0.4211829994128651
+breed_Oriental Sh Mix,0.43158729916874405,color_Cream Tabby/Orange Tabby,0.28637110047794967,color_Brown/Cream,0.41600659422738595
+color_Orange Tabby/Brown,0.4300292477902897,color_Orange Tiger,0.2850936158606873,color_Calico Point/Gray,0.41580232045066645
+breed_Domestic Medium Hair Mix,0.4296724624546873,color_Brown/Orange,0.2846320429756373,color_Blue Tabby/Black,0.4135726911707677
+color_White/Silver Tabby,0.4206207570791546,color_Gray/Gray Tabby,0.2806347378248286,breed_Siamese Mix,0.41266997044793025
+color_Tortie/White,0.42022898400320424,intake_type_Public Assist,0.28022046015721336,color_Black Smoke/Black Tiger,0.40960108415525964
+breed_Snowshoe,0.4189265477984844,breed_Burmese,0.28019506643426245,color_Cream/Brown,0.4095474963040644
+color_White/Calico Point,0.4152742675914719,color_Tricolor,0.27495205628841196,color_Cream Tabby/Orange Tabby,0.40902584540988446
+color_Brown Brindle,0.41385321418090115,sex_upon_intake_Spayed Female,0.2721559435432021,color_Brown/Buff,0.4089192337204838
+color_Orange Tabby/Orange,0.4121283602037202,color_White/Gray,0.2675185838310826,breed_Domestic Shorthair/Siamese,0.40763949500018376
+color_Seal Point/Cream,0.41091407623696347,color_Orange/Orange Tabby,0.2661074604510146,intake_condition_Normal,0.40518405894264653
+color_Lilac Point/White,0.40328495706483264,color_White/Silver Tabby,0.2653766139459895,color_Silver Lynx Point,0.403051978164231
+color_Blue Tabby/Buff,0.40250576654604525,color_Black/Silver,0.2632722509173533,color_Cream/Blue Point,0.4029303992346109
+color_White/Chocolate,0.40206380691045884,color_Orange,0.26239566536313763,color_Lilac Point/Gray,0.4004576354696865
+color_Torbie/Silver Tabby,0.40173180417943244,color_Gray/Orange,0.2553459265898229,color_White,0.4002249145125837
+color_Agouti,0.40155515386661245,color_Silver Lynx Point/White,0.2522623450806195,breed_Burmese,0.39577687046265847
+color_Blue Tabby/Blue Cream,0.40077400797140933,color_Buff,0.2508575595423867,color_Calico/Tricolor,0.38597957077901146
+color_Tortie/Blue Tabby,0.3995711109886598,color_Agouti,0.249049898427201,color_Silver Lynx Point/White,0.383626243536618
+color_Lilac Point/Black,0.399485223923106,color_Tricolor/White,0.24835786295453743,breed_British Shorthair Mix,0.3830103496242597
+color_Blue Smoke/Gray,0.399485223923106,color_White/Lynx Point,0.24733078974853182,color_Cream/Seal Point,0.382287455703618
+color_Brown Tabby/Orange Tabby,0.3994852239231029,color_Black/Black Tabby,0.24393096733802958,breed_Javanese Mix,0.3815329566417248
+color_Tortie Point/Lynx Point,0.39728293075949433,breed_Persian,0.24250899176529983,breed_Domestic Medium Hair/Siamese,0.3776896094266335
+color_White/Black Smoke,0.39691075960729955,breed_Maine Coon,0.23969466017664437,color_Tortie Point/Blue,0.3773220619457987
+color_Blue Tabby/Tan,0.396825016440329,color_Calico/Brown Tabby,0.23965382917345082,color_Yellow/Orange,0.3769827925986084
+color_Tortie/Orange,0.3962817518929013,breed_Domestic Shorthair/Siamese,0.2384590663916593,breed_Pixiebob Shorthair Mix,0.37609169860818187
+color_Cream Tabby/Cream Tabby,0.38603172482800424,breed_American Curl Shorthair Mix,0.2382213293112707,breed_Domestic Shorthair,0.37221233484481264
+intake_condition_Other,0.38471697855804365,color_Gray/Gray,0.23625262405558498,color_White/Calico Point,0.37108526147940935
+breed_Scottish Fold Mix,0.38185977867312604,color_Gray/Black,0.23212937703239797,breed_American Curl Shorthair,0.3667725988024514
+color_Orange Tabby/Orange Tabby,0.3758383787394262,color_Brown Brindle,0.2280197113589812,intake_type_Owner Surrender,0.36384697062661414
+color_Red Tick,0.3745290393127343,color_Blue Smoke,0.22789204307849328,color_Tricolor/Calico,0.36380763472389216
+color_Brown/Cream,0.37410567904592507,color_White/Black Tabby,0.22524996747328035,color_White/Chocolate,0.36353310569583974
+color_Gray/Gray Tabby,0.3739426343279963,color_Black Smoke/White,0.22333615477936034,sex_upon_intake_Intact Male,0.363523897236447
+color_Calico Point/Gray,0.37376854783625085,color_White/Blue,0.21825764472133097,color_Blue Tabby/Blue Cream,0.36279544434756883
+color_Gray/Tan,0.37329219073273967,color_Gray/White,0.208659624464483,color_Orange Tabby/Orange,0.36226887053863543
+color_Tortie/Gold,0.37167536048723315,breed_Bombay Mix,0.20769256494489888,color_Tortie/Blue Tabby,0.36210741303518457
+color_Gray Tabby/Orange,0.36865717735232684,color_Blue Tabby/Tortie,0.2038631527526748,color_Lilac Point/Black,0.3620582847252634
+color_Torbie/Blue Cream,0.3641331713575691,color_Tortie/Tortie,0.20356756881019128,color_Blue Smoke/Gray,0.3620582847252634
+color_Fawn,0.36391793701366915,color_Blue Tabby,0.20208822860429726,color_Brown Tabby/Orange Tabby,0.3620582847252634
+color_Tortie/Black Smoke,0.36346450371433764,breed_Siamese Mix,0.20012958410992573,color_White/Black Smoke,0.36058548174903726
+color_Silver/Silver Tabby,0.36184209429195285,color_Blue Tabby/Brown,0.19932057682012785,color_Blue Tabby/Tan,0.3605364233293595
+color_Cream Tiger/Brown Tabby,0.3590923476435682,color_Black/Tricolor,0.1967285990773722,color_White/Red,0.36010933413378915
+breed_British Shorthair Mix,0.3585135936743875,color_Brown Tabby/Brown Tabby,0.1961298977124685,color_Tan/Cream Tabby,0.3550990957966659
+color_Black/Brown Tabby,0.35492785575391766,color_White/Brown Brindle,0.1958947881924013,color_Tortie/Orange,0.3532661728393644
+breed_Javanese Mix,0.3529584603999189,color_Chocolate Point/Cream,0.19395884755548917,color_Lilac Point,0.3523400928609453
+color_Brown,0.35218531607270936,color_Tortie,0.1927346439775677,breed_Exotic Shorthair,0.3479166739791869
+color_White,0.3508057914796664,color_Black/Brown,0.1917536462545865,color_Cream Tabby/Cream Tabby,0.34743807738798754
+breed_Pixiebob Shorthair Mix,0.3493601816253752,breed_Ragdoll,0.1907907824537491,color_Tortie/Gold,0.3470094082755713
+color_Chocolate/Seal Point,0.3491214800580953,color_Tan/Chocolate Point,0.18600515636557122,color_Blue Cream/White,0.34489488218733294
+color_Brown Tabby/Brown Tabby,0.3469838299504916,color_Flame Point,0.1746309595292736,color_Brown/Orange,0.3445140243762532
+breed_Domestic Medium Hair/Siamese,0.346477783521674,color_Torbie/Brown,0.1718533584838836,color_Gray,0.3414377112479305
+color_Tortie Point/Seal Point,0.3399490169178728,color_Brown Tabby/White,0.16851973427210215,breed_Scottish Fold Mix,0.3400040595154568
+breed_Domestic Shorthair/Scottish Fold,0.3385512278451205,sex_upon_intake_Intact Female,0.1680703972788272,color_White/Calico,0.33921248446291763
+color_Black/Silver,0.33594250837774403,color_Orange Tabby,0.16547344132058117,color_Brown Tabby/Lynx Point,0.33747577307901205
+color_Calico Point/White,0.33523359806921404,color_Gray,0.16303755818430002,color_Silver/Silver Tabby,0.33452533407815005
+color_White/Tan,0.3327042781785436,color_Gray/Tortie,0.15779739494494335,color_Tortie Point/Seal Point,0.334210870249155
+breed_Japanese Bobtail Mix,0.3301833913236849,color_Torbie,0.15604910403415204,color_Cream Tiger/Brown Tabby,0.3329518309736401
+color_Chocolate Point/Cream,0.3300755938962882,color_Lilac Point/White,0.15449027407587218,color_Blue/Tortie,0.3326750963719008
+color_Tan,0.3284711598658699,intake_type_Stray,0.1527529332554078,color_Torbie/Gray,0.3306726662591714
+breed_Japanese Bobtail/Siamese,0.3276043511801947,breed_Exotic Shorthair Mix,0.15027502448452928,breed_Domestic Shorthair/Scottish Fold,0.33056771444235394
+color_Lilac Point/Gray,0.3261429379364716,breed_Abyssinian,0.1486721932175561,color_Brown Tabby/Red,0.3303252173946808
+breed_American Curl Shorthair,0.3255481421066943,color_Orange/White,0.14641972597633768,intake_condition_Nursing,0.32953111761156884
+color_Tricolor/Orange,0.32524425618052566,color_White/Red,0.14567754134363484,color_Gray Tabby/Orange,0.3289194393369242
+breed_Havana Brown Mix,0.32384138728526163,color_Lynx Point/Tortie Point,0.1443409292241921,color_White/Gray,0.32653896832214424
+color_Blue Point/Cream,0.3214999197516252,color_Orange Tabby/Orange Tabby,0.14413364391130065,color_Torbie/Blue Cream,0.32636362738652336
+color_Calico Point,0.32043488695030553,color_Brown Tabby/Silver,0.14352185037940374,color_Tortie/Black Smoke,0.32598568422329294
+color_Orange Tabby/White,0.31926761670228976,intake_condition_Aged,0.1431251199949176,color_White/Brown Brindle,0.32081036473808017
+color_Tricolor/Calico,0.31587176637604,color_Blue/Tortie,0.1420948229009065,color_Chocolate/Seal Point,0.31974363777780906
+color_Torbie,0.31563682013093064,color_Yellow/Orange,0.13516402319089163,color_Black/Silver Tabby,0.3164413975820634
+breed_Bengal,0.3153115780966479,color_White/Orange Tabby,0.1333401319215759,breed_Havana Brown Mix,0.31575048937622396
+color_Torbie/Brown Tabby,0.31501033220294816,color_Calico,0.13209051158108137,color_Orange Tabby/Black,0.31518228043795216
+color_Lynx Point/Blue,0.3149168399519597,color_Blue Smoke/White,0.12080905981779406,color_Calico/Black,0.3150292052434247
+breed_Pixiebob Shorthair,0.3120984189959819,color_Yellow/Orange Tabby,0.12046829985867502,breed_Domestic Medium Hair/Manx,0.313242679532563
+color_Calico/Tricolor,0.3114671429810325,color_Pink,0.11991395153170609,breed_Japanese Bobtail/Siamese,0.31258308206625846
+color_Blue Cream,0.3105202648864191,color_Chocolate,0.11920066125841627,color_Tortie/Brown,0.309454439510375
+color_Silver Tabby/White,0.30984928294601194,color_Gray Tabby,0.11844741779462194,breed_Havana Brown,0.30546530071144806
+breed_Manx Mix,0.3074780050338775,breed_Turkish Van Mix,0.11703692534013607,color_Lilac Point/White,0.30514602114096584
+breed_American Curl Shorthair Mix,0.3035987173440922,color_Blue Tabby/Cream,0.11464325527200364,color_Apricot/White,0.3027691521952968
+breed_Domestic Medium Hair/Manx,0.3014144221946209,color_Black/Gray Tabby,0.11316195502163112,color_Brown/Black Tabby,0.3026785823943662
+color_White/White,0.2965649736608912,color_Blue,0.11057220093078368,color_Tortie Point/White,0.30258029872466435
+color_White/Gray Tabby,0.28998471514845475,color_Blue Point,0.1028339318539589,color_Orange Tabby/Tortie Point,0.301307126919391
+color_Cream/Brown,0.2861173761467525,color_Brown Tiger/White,0.10156558317376076,color_Tortie/Calico,0.30130712691938005
+breed_Siamese,0.28508004642980705,breed_Snowshoe,0.09946014017844683,color_Calico/Calico,0.29808550131994777
+intake_type_Public Assist,0.28418584573970473,intake_condition_Space,0.09700914558176493,breed_Manx Mix,0.297918803886346
+color_Blue Tabby/Tortie,0.28322135154948724,color_Black/Brown Tabby,0.09472419783395247,breed_Ragdoll/Snowshoe,0.29530272119139367
+color_Black Smoke/White,0.2786637193253238,intake_condition_Behavior,0.09459724821185432,color_White/Seal Point,0.2942834426181974
+color_Lilac Point/Cream,0.27848937530964035,breed_Domestic Medium Hair,0.09142315674351267,color_Black Smoke,0.2928361881497157
+color_Calico/Black,0.27818877023793537,color_Brown Merle/Brown Tabby,0.09056978603408748,color_Brown Tiger,0.2915408320923329
+color_Gray/Tortie,0.2772783906242491,color_White/Black,0.09009838077477852,color_Gray Tabby/White,0.2887854924792276
+breed_Exotic Shorthair Mix,0.2736037862676144,color_Blue Tabby/White,0.08995612826746788,color_Fawn,0.28792391114920707
+breed_Munchkin Shorthair Mix,0.27337389103434584,color_Black/Blue,0.0879329017925756,color_Calico Point/Lynx Point,0.2860577253319336
+color_Tan/Chocolate Point,0.27092183652598234,color_Calico/Orange,0.08691247823927399,breed_Siamese,0.28604244587763444
+breed_Domestic Medium Hair,0.26994458856328196,color_Brown Tabby/Blue,0.08684470167390691,sex_upon_intake_Intact Female,0.2852376874810237
+color_Yellow/Orange,0.26924374083525543,color_Blue Point/White,0.08623152605074569,color_Torbie/White,0.2793580026521618
+color_Sable,0.26922532700724483,color_Brown Tabby/Orange,0.08603980500001134,breed_Domestic Shorthair/Maine Coon,0.27622513914489844
+color_Tricolor/White,0.26918050185556736,color_Brown Tabby/Tortie,0.08588492475776908,color_Gray Tabby/Black,0.2735919429308953
+breed_Domestic Longhair/Persian,0.26659816107166806,color_Chocolate/Brown Tabby,0.08393584186781741,color_Calico/Gray Tabby,0.26787909295241785
+color_Black/Silver Tabby,0.26435180368706285,color_White/Chocolate Point,0.08209696833907322,color_Tan/Black,0.2678360254139872
+breed_Domestic Shorthair/Maine Coon,0.2628613117299765,color_White/White,0.07831773640786281,color_White/Brown,0.2671016611642431
+color_Orange Tabby/Black,0.2623944727122763,breed_Domestic Longhair,0.0782100136932397,breed_Abyssinian/Domestic Shorthair,0.2651283885407677
+breed_Domestic Shorthair/Manx,0.26132553465730524,color_Brown Tabby/Lynx Point,0.07805000980879877,breed_Japanese Bobtail Mix,0.2634500872821981
+intake_condition_Sick,0.2611922126407442,color_Cream/Orange,0.07704365039904688,breed_Pixiebob Shorthair,0.2624481538992552
+color_Seal Point,0.2584557728241381,color_Cream/Black,0.06994674769716057,color_Blue Point/Cream,0.25929413477401064
+breed_Abyssinian/Domestic Shorthair,0.25754363212975084,color_Seal Point/White,0.0697751715751644,breed_American Curl Shorthair/Siamese,0.25552075337836183
+color_Brown/Black Tabby,0.25319582142774416,intake_condition_Pregnant,0.06960732051242777,color_Brown Tabby/Black Tabby,0.2547892546017467
+color_Tortie/Blue Cream,0.2527671716564488,color_Torbie/Gray,0.06893267077668278,color_Cream/White,0.25281877661221075
+breed_American Curl Shorthair/Siamese,0.25169962402464163,color_Agouti/Cream,0.06718881773011794,breed_Domestic Medium Hair Mix,0.25168450753775756
+color_Brown Tabby/Black Tabby,0.2515399422383271,color_Chocolate Point/White,0.06703191062117417,color_Calico Point,0.25166275877270244
+color_Orange Tabby/Tortie Point,0.25107179265264484,color_Calico/Tricolor,0.06700327555401869,color_Brown,0.25146417087650474
+color_Tortie/Calico,0.25107179265264484,breed_Havana Brown,0.06696384964121839,color_Lynx Point/Blue,0.24887875658316233
+color_Torbie/Gray,0.25052807618218403,color_Red Tick,0.06691084566537735,color_Red/White,0.24737417566440867
+color_Cream Tiger,0.25035486051637607,color_Tortie/Blue,0.06647610177818826,color_Gray/Brown,0.24399951422269223
+color_White/Yellow,0.25035486051637607,color_Lynx Point/Cream,0.06512746465360006,color_White/Yellow,0.24387674103708587
+color_Gray/Brown,0.2501433364325415,breed_Bengal Mix,0.06378837142051164,color_Cream Tiger,0.24387674103708587
+intake_type_Stray,0.2479941454429966,color_Tan/White,0.06363901039182268,color_Silver,0.24118606427862158
+breed_Balinese Mix,0.24602805301957414,breed_Siamese,0.06352227929742754,color_Orange/Orange Tabby,0.24026677211919123
+color_Tortie/Brown,0.2428044495416697,color_Sable/White,0.0633728843490592,color_Lynx Point/Tan,0.24003199736562256
+color_White/Blue Tabby,0.23965319076705963,color_Torbie/Black,0.06093181172790472,color_Red Tick,0.23984476790176276
+color_Cream Tabby/White,0.2379599417535027,breed_Domestic Shorthair/Domestic Shorthair,0.060418869186682496,breed_Munchkin Shorthair Mix,0.23973327699708782
+breed_Tonkinese Mix,0.23715834428348434,color_Calico/Blue Cream,0.056403850654412745,breed_Domestic Shorthair/Manx,0.229401149569099
+breed_Havana Brown,0.236704105751109,color_White,0.05567302717736247,color_Brown Tabby/Agouti,0.22896440312057917
+color_White/Cream,0.23592970385001594,color_Yellow/Cream,0.05477075813013894,color_White/Blue Tabby,0.22846944318767093
+color_Red/White,0.23584843164993177,color_Black Tiger,0.054148840458264055,color_Blue Tabby/Brown,0.22789767324046548
+color_Brown Tabby/Red,0.23447385179605854,color_Chocolate/White,0.05151458628313816,color_Sable,0.22754204882072587
+color_White/Brown Tabby,0.23400951953130636,breed_Devon Rex Mix,0.05099273449341065,color_Seal Point,0.2248370041115693
+breed_Domestic Longhair Mix,0.23002214665893145,color_Calico/Brown,0.050941762740191646,color_Black Smoke/White,0.22310206241874128
+intake_condition_Feral,0.22964593524609136,color_Agouti/White,0.04935277821793627,color_Agouti,0.22076273481155906
+breed_Himalayan,0.2290786375115592,color_Black,0.048314531932649014,color_Pink,0.22022566124799156
+color_Calico Point/Lynx Point,0.2278394137135738,color_Brown Tabby/Calico,0.04661826850779889,color_Yellow/Orange Tabby,0.21957623204103408
+color_Flame Point,0.22533077547006763,color_Gray Tabby/White,0.04521160144918927,breed_Domestic Longhair/Persian,0.21936777743859007
+color_Brown Tabby/Lynx Point,0.22446554202988495,breed_Colorpoint Mix,0.04455576738365881,color_Agouti/White,0.20840948935140668
+color_Blue Tabby,0.22426058504662114,breed_Norwegian Forest Cat Mix,0.043291773865444236,color_Black/Brown Tabby,0.2041093792768143
+color_Lynx Point/White,0.22279156835484112,color_Torbie/Blue Tabby,0.042359400431086706,color_White/Silver Tabby,0.2039768345927489
+color_Tan/Black,0.22000482971633237,color_Lilac Point/Gray,0.04206386978775749,color_Blue Cream,0.2020924599377571
+color_Calico/Gray Tabby,0.21993943019557566,color_Orange Tabby/Black,0.04104468895128781,breed_Burmese Mix,0.20146843428441652
+color_Silver Tabby,0.2167580600270534,color_White/Agouti,0.04068684651002352,color_Cream,0.20060184369624737
+color_Black/Tricolor,0.21384279440837325,color_Black/Silver Tabby,0.04067314082801953,breed_Domestic Medium Hair,0.1998672171717715
+intake_condition_Pregnant,0.21030734252243952,color_Calico Point/Lynx Point,0.04058404239201225,color_White/Cream,0.1992669776801729
+color_Brown Tabby/Agouti,0.20778954564585783,breed_Snowshoe Mix,0.03866723197885082,breed_Abyssinian Mix,0.19878229929098598
+color_Brown Tiger/White,0.20549503210896988,breed_Domestic Medium Hair/Siamese,0.03820087269176822,color_Torbie/Blue Tabby,0.19560524301542917
+color_White/Blue,0.204812162357703,color_Fawn,0.03661340934395119,breed_Balinese,0.1954573932633886
+color_White/Black Tabby,0.2023800016658055,breed_Bengal/Domestic Shorthair,0.0364919960954673,color_Brown Tabby/Brown,0.19450597372133788
+color_Gray Tabby/White,0.20120704787180155,color_Tortie/Calico,0.036197266857847514,color_Brown Brindle,0.19342190666145917
+breed_Balinese,0.20118076812686217,color_Orange Tabby/Tortie Point,0.03619726685784725,breed_Ragdoll Mix,0.19290958009159415
+intake_type_Abandoned,0.19847598733311977,color_Brown/Black Tabby,0.03582993448865896,color_Tricolor/Orange,0.19258952556707115
+color_Blue/White,0.19638225902830325,breed_Munchkin Longhair Mix,0.03582658041510308,color_White/Gray Tabby,0.18818648030874827
+color_Torbie/Black,0.19515227203226257,color_Black/White,0.03578404123516776,color_Torbie,0.18716086140389568
+color_Buff/White,0.19065323490981728,color_Tricolor/Calico,0.03438329091524268,color_Tortie/Black,0.18665760599754638
+breed_Domestic Shorthair/Siamese,0.1904769267977134,color_Brown/Seal Point,0.034112594776644106,color_Brown/Brown Brindle,0.18577183560000318
+breed_American Curl Shorthair/Japanese Bobtail,0.18910839260283288,color_Lynx Point/Blue,0.03396166873449303,color_Black Tabby/White,0.18146915094094612
+breed_Himalayan Mix,0.18832886931254555,color_Calico/Black,0.03349270456753167,breed_American Curl Shorthair/Japanese Bobtail,0.17855365243345478
+color_Cream/Seal Point,0.18124563472891925,color_Tortie/Brown,0.03323831536010615,intake_type_Abandoned,0.17709846589130607
+color_Black/White,0.1799696861522997,color_Orange Tabby/Orange,0.03284013881130464,breed_Turkish Angora,0.17528542420545448
+color_Cream/Tan,0.16865603106675006,sex_upon_intake_Intact Male,0.03236569655212737,color_Blue,0.1730465104139408
+color_Black/Gray,0.1682248593096556,color_Tortie/Orange,0.030833029609378625,color_Tortie/White,0.16967631557075666
+color_Flame Point/White,0.16591631162871076,color_White/Cream Tabby,0.030704910746887068,breed_Himalayan,0.167250851627916
+color_Cream Tabby,0.16543909371632998,color_Blue Tabby/Black,0.03032415877459031,color_Gray/Gray Tabby,0.16274332796686442
+color_Blue Smoke/White,0.15989089528281075,breed_Scottish Fold Mix,0.02973415987907137,color_White/Tortie,0.1620831509263203
+color_Brown Tabby/White,0.1588576152389192,color_Cream Tabby/Cream Tabby,0.029586705039370918,breed_American Shorthair,0.15426204086537465
+color_Brown Tiger,0.15802184789243956,breed_Oriental Sh Mix,0.029360960406527973,intake_type_Public Assist,0.15087534953004278
+breed_Turkish Angora,0.15566213731797773,color_Tortie Point/Blue,0.02894518166290638,color_White/Black,0.14832669038786686
+color_White/Calico,0.1555492951693316,color_Gray/Tan,0.028896061134519875,color_Black/Black,0.13955959839753104
+color_Tortie Point,0.1544962128203221,breed_Japanese Bobtail Mix,0.028490870710636183,color_White/Buff,0.13887278903577208
+intake_condition_Behavior,0.15282827288970918,breed_Japanese Bobtail/Siamese,0.028416482085901154,color_Brown Tabby/Gray,0.13886583189100216
+color_Silver Lynx Point,0.14770880565879602,color_Lynx Point/Gray,0.028337028146655733,breed_Abyssinian,0.13850282763486746
+color_White/Gray,0.14652233700458375,color_White/Calico Point,0.02771419668784324,color_Brown Tiger/White,0.13811716288341433
+breed_Maine Coon Mix,0.14576164491069749,breed_Munchkin Shorthair Mix,0.027627229875819163,color_Orange Tabby/White,0.1344345339576281
+color_Agouti/White,0.14193317344740153,color_Gray Tabby/Orange,0.02760555592972922,color_Gray/Tortie,0.1339191578418189
+color_Lilac Point,0.14117028254783517,color_Blue Cream/Tortie,0.027486324956056903,breed_Ocicat Mix,0.13376584260813798
+breed_Ragdoll Mix,0.13987961326684537,color_Torbie/Blue Cream,0.027094869858477456,breed_Balinese Mix,0.132227020753664
+breed_Ocicat Mix,0.13938666747007183,color_Tortie/Black Smoke,0.02701997701349646,color_Black Tabby/Gray Tabby,0.12803477698043175
+color_Torbie/Blue Tabby,0.13697587050533552,color_Seal Point/Buff,0.026615971374508402,color_Brown/Gray,0.12790272261578983
+color_Calico,0.13689895191650167,color_Cream/Blue Point,0.02654433626289395,color_Silver Tabby/White,0.12430732617920762
+color_Brown Tabby/Brown,0.13493378041778584,color_Blue Tabby/Orange,0.026411367130104148,color_White/Orange,0.12026471268357368
+color_Lynx Point,0.13374299161351122,color_White/Chocolate,0.026285118162479134,color_Sable/White,0.11904235065115644
+color_Brown/Buff,0.13033040199182536,color_Seal Point/Gray,0.026184972668962216,color_Tan/White,0.11871819229504194
+color_Black Smoke/Black Tiger,0.11869011414116208,color_Blue Tabby/Blue Cream,0.02614883216921971,breed_Domestic Longhair,0.11863532945865524
+color_Cream/Orange,0.11623440331702581,color_Tortie/Blue Tabby,0.026022236498645202,color_Chocolate Point/Cream,0.11646899016172464
+color_Black Tabby/White,0.11537441168136094,color_Brown Tabby/Orange Tabby,0.026013216222583707,color_Agouti/Cream,0.1145672857682917
+color_White/Orange Tabby,0.11469247220412793,color_Lilac Point/Black,0.026013216222583707,color_Torbie/Black,0.112148568321324
+color_Tan/Cream Tabby,0.112446441936494,color_Blue Smoke/Gray,0.026013216222583707,color_Cream Tabby/White,0.11167467465398394
+color_Tortie/Black,0.11236231339144974,color_White/Black Smoke,0.02574398274794501,color_White/Blue,0.10984121172580791
+breed_Bengal/Domestic Shorthair,0.10936006739204217,color_Torbie/Silver Tabby,0.02574398274794501,breed_Bengal Mix,0.10795676873171732
+color_Brown/Orange,0.10194813466351656,color_Blue Tabby/Tan,0.025735053982717807,color_Black Brindle,0.1077891319917298
+breed_Bengal Mix,0.10111118381104756,color_Blue Point/Cream,0.025672731308851404,color_White/Brown Tabby,0.1076764652389408
+color_Black Tabby,0.09934978719725364,color_Blue Tabby/Buff,0.025663729561641598,breed_Tonkinese,0.10315874400309732
+breed_Tonkinese,0.0970389766401803,breed_Domestic Shorthair/Manx,0.025464495686323165,breed_Domestic Longhair Mix,0.1012469762103707
+color_Calico/Brown Tabby,0.08326194232658038,breed_Pixiebob Shorthair Mix,0.025459643213090563,color_Black Tabby,0.09836247149415371
+breed_Snowshoe Mix,0.07845574532806009,breed_Munchkin Longhair/Ragdoll,0.025342274171113087,color_Seal Point/White,0.09534493977141657
+intake_condition_Injured,0.07760297966062052,breed_American Curl Shorthair,0.025030608867315146,color_Tortie,0.09374284445381002
+breed_Abyssinian Mix,0.07540571928574434,breed_Pixiebob Shorthair,0.024881874863126537,color_Calico/Brown Tabby,0.09294584804687599
+color_Silver,0.07223991864906495,color_Sable,0.02461952608985803,color_Orange Tabby,0.08260688756745699
+color_Brown Tabby,0.07096919154234776,color_White/Lilac Point,0.024055535598763087,color_Black/White,0.08208593570442699
+color_Orange Tabby,0.06151451427522108,color_Chocolate/Seal Point,0.023521147171818524,color_Lynx Point,0.0808794565478385
+color_Blue,0.060518701640985086,breed_Domestic Longhair/Persian,0.022966463761542745,color_Tortie Point,0.07738938203118383
+color_White/Brown,0.05961316587549036,breed_Havana Brown Mix,0.022397871312428316,color_Flame Point,0.07719648071143755
+color_Tortie,0.05446176605331874,color_Gray Tabby/Gray,0.022369956322956346,color_Flame Point/White,0.0771238915264314
+breed_Domestic Longhair,0.05407770521224028,breed_Javanese Mix,0.022140307846063946,color_Brown Merle/Brown Tabby,0.07523647801629041
+color_White/Cream Tabby,0.05175179592626715,breed_British Shorthair Mix,0.02210311121607375,color_Blue Point,0.0707939703542762
+breed_Cornish Rex Mix,0.050980174137310146,color_Seal Point/Cream,0.021839298336570015,color_Tricolor,0.0692217730006348
+color_Blue Point,0.050938199083952536,color_Silver/Silver Tabby,0.02149513152225807,color_Lynx Point/Cream,0.0677301828008866
+breed_Burmese Mix,0.049968179219828476,breed_American Curl Shorthair/Siamese,0.021255901462675263,breed_Bengal/Domestic Shorthair,0.0664332269836904
+color_Brown/Black,0.04858935342482039,color_Cream Tiger/Brown Tabby,0.021248362115381454,color_Brown Tabby/Calico,0.06506388358461711
+color_White/Black,0.047194897543908765,color_White/Brown Tabby,0.02056895841053895,color_Calico/Brown,0.06497858150492937
+color_Calico/Calico,0.04695449375721235,color_Brown Tabby/Black Tabby,0.01964702712874065,color_Brown Tabby/Blue,0.06375844081102862
+color_Cream/White,0.04408053545155114,color_Calico Point/Gray,0.019250664618515257,color_Black,0.06354277364858348
+color_White/Orange,0.040465048967141114,color_Brown/Cream,0.019223621290959354,breed_Maine Coon Mix,0.06306614097943566
+intake_condition_Nursing,0.03191710731927637,color_Tortie Point/Lynx Point,0.01917245668408035,color_Silver Tabby,0.06194902488591986
+color_White/Seal Point,0.030856557469523368,color_Tortie/Gold,0.018598610556446116,color_Blue/Blue,0.05889197296522598
+breed_Abyssinian,0.028243062136111982,breed_Domestic Shorthair/Scottish Fold,0.018421198054970944,color_Blue Tabby,0.05849330610529945
+color_Black,0.020699804104659783,breed_Angora Mix,0.01790543080253769,breed_Bengal,0.05802533362467087
+color_Seal Point/White,0.01465910687587877,color_Flame Point/Cream,0.017738015999817308,breed_Snowshoe Mix,0.05721287132429774
+breed_American Shorthair,0.014207052057660893,color_Cream/Gray,0.01739794289306675,color_White/Orange Tabby,0.05659798011986314
+color_Brown Tabby/Gray,0.007976314936415312,breed_Ocicat Mix,0.016924070223751683,color_Calico Point/White,0.053419656738238355
+color_Black/Black,0.005476260998665768,color_Cream Tabby/Orange,0.016532441640097532,color_Blue Smoke/White,0.043368636083569286
+color_Pink,0.004587148506842356,breed_American Curl Shorthair/Japanese Bobtail,0.016374224133432376,color_Brown Tabby,0.041455829532623376
+color_Yellow/Orange Tabby,0.004557587605659215,breed_Domestic Shorthair/Maine Coon,0.015927428901293193,color_Lynx Point/White,0.04039651116070666
+color_Sable/White,0.0022965083138184227,breed_Tonkinese,0.0156965742357187,intake_condition_Other,0.0379785479409003
+color_Tan/White,0.0022836526840609157,color_Cream Tabby/White,0.015377594200821333,color_White/Cream Tabby,0.03748385280105833
+color_Calico/Brown,0.002129883473105758,breed_Balinese,0.014730842294246234,color_Cream Tabby,0.0358853386057876
+color_Agouti/Cream,0.0021230441764875166,color_Brown Tabby/Gray,0.013812923403174216,breed_Himalayan Mix,0.03575223230367534
+color_Red,0.0012320053145784974,breed_Abyssinian/Domestic Shorthair,0.013584881421220744,color_White/Black Tabby,0.03209964733811812
+color_Brown Merle/Brown Tabby,0.0011906377427667106,color_Tortie Point/Seal Point,0.013478513845176673,intake_condition_Pregnant,0.024415410656608974
+color_Lynx Point/Cream,0.0011308499369981852,breed_Domestic Medium Hair/Manx,0.013099663757359232,color_Calico,0.018087446655386016
+color_Orange Tabby/Apricot,0.0010863522590807621,color_Brown Tabby/Agouti,0.012462723978791553,color_Brown/Brown Tabby,0.015717310339179075
+color_Brown Tabby/Blue,0.0010006931778351873,breed_Siamese/Snowshoe,0.011702621085425401,color_Brown Tabby/White,0.013063109125444361
+color_Brown/Brown Brindle,0.0009250962344179043,color_Brown Tabby,0.010866889056471785,color_Torbie/Brown Tabby,0.010051227108937712
+color_Black Tabby/Gray Tabby,0.0007982928110962906,color_Seal Point/Brown,0.010698069826970582,intake_condition_Behavior,0.00774319262701642
+color_Brown/Gray,0.0007965973230117082,breed_Domestic Longhair/Siamese,0.010635214651489734,color_Blue/White,0.0029985408283106385
+color_Brown Tabby/Calico,0.000506108897008609,breed_Turkish Angora,0.010292174062104434,color_Cream/Orange,0.0022915332077521307
+color_Gray/Orange,0.00019054807848034494,color_Blue Cream,0.007719728767598535,color_White/Tan,0.0014694364714498227
+breed_Cymric Mix,0.0,breed_Chartreux Mix,0.0,breed_Cymric Mix,0.0
+breed_Chartreux Mix,0.0,breed_British Shorthair,0.0,breed_Devon Rex,0.0
+breed_British Shorthair,0.0,color_Yellow,0.0,color_Brown Tabby/Gray Tabby,0.0
+breed_Devon Rex,0.0,breed_British Shorthair/Domestic Shorthair,0.0,color_Apricot,0.0
+color_Lynx Point/Gray Tabby,0.0,breed_Cymric Mix,0.0,breed_British Shorthair,0.0
+color_Lynx Point/Brown Tabby,0.0,color_Black Tabby/Black,0.0,breed_Chartreux Mix,0.0
+breed_American Wirehair Mix,0.0,breed_Devon Rex,0.0,breed_British Shorthair/Domestic Shorthair,0.0
+breed_Domestic Longhair/Domestic Longhair,0.0,color_Brown Merle,0.0,color_Brown Tabby/Black Brindle,0.0
+breed_Domestic Longhair/Manx,0.0,color_Black Tiger/White,0.0,breed_American Wirehair Mix,0.0
+breed_British Shorthair/Domestic Shorthair,0.0,color_Black/Black Smoke,0.0,color_Lynx Point/Brown Tabby,0.0
+color_Blue/Brown,0.0,color_Black/Chocolate,0.0,color_Lynx Point/Gray Tabby,0.0
+breed_Domestic Longhair/Rex,0.0,color_Black Smoke/Brown Tabby,0.0,color_Silver Tabby/Black,0.0
+breed_Domestic Longhair/Russian Blue,0.0,color_Blue Cream/Blue Tabby,0.0,breed_Domestic Longhair/Rex,0.0
+color_Blue/Cream,0.0,color_Blue Cream/Buff,0.0,breed_Domestic Longhair/Domestic Longhair,0.0
+color_Blue Cream/Buff,0.0,color_Apricot,0.0,color_Brown Merle,0.0
+color_Brown Merle,0.0,color_Blue/Brown,0.0,color_Agouti/Brown Tabby,0.0
+color_Black/Chocolate,0.0,color_Blue/Calico,0.0,color_Black Smoke/Brown Tabby,0.0
+color_Black/Black Smoke,0.0,color_Blue/Cream,0.0,color_Black Tabby/Black,0.0
+color_Black Tiger/White,0.0,color_Agouti/Brown Tabby,0.0,breed_Sphynx,0.0
+color_Brown Tabby/Black Brindle,0.0,color_Brown Tabby/Black Brindle,0.0,color_White/Flame Point,0.0
+color_Black Tabby/Black,0.0,breed_Domestic Longhair/Domestic Longhair,0.0,color_Black/Black Smoke,0.0
+color_Black Smoke/Brown Tabby,0.0,color_Brown Tabby/Gray Tabby,0.0,color_Black/Chocolate,0.0
+color_Apricot,0.0,breed_American Wirehair Mix,0.0,color_Blue Cream/Blue Tabby,0.0
+color_Brown Tabby/Gray Tabby,0.0,breed_Sphynx,0.0,color_Blue Cream/Buff,0.0
+color_Silver Tabby/Black,0.0,color_Lynx Point/Brown Tabby,0.0,color_Blue/Brown,0.0
+color_Agouti/Brown Tabby,0.0,color_Lynx Point/Gray Tabby,0.0,color_Blue/Calico,0.0
+color_White/Flame Point,0.0,breed_Domestic Shorthair/Snowshoe,0.0,breed_Manx/Siamese,0.0
+breed_Sphynx,0.0,color_Silver Tabby/Black,0.0,color_Blue/Cream,0.0
+color_Blue/Calico,0.0,breed_Domestic Longhair/Russian Blue,0.0,breed_Domestic Shorthair/Snowshoe,0.0
+breed_Manx/Siamese,0.0,breed_Domestic Longhair/Rex,0.0,color_Yellow,0.0
+breed_Domestic Shorthair/Snowshoe,0.0,color_White/Flame Point,0.0,breed_Domestic Longhair/Russian Blue,0.0
+color_Yellow,0.0,breed_Domestic Longhair/Manx,0.0,breed_Domestic Longhair/Manx,0.0
+color_Blue Cream/Blue Tabby,0.0,breed_Manx/Siamese,0.0,color_Black Tiger/White,0.0
