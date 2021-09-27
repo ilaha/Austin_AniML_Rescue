@@ -12,7 +12,7 @@ Our presentation is available as a Google Slides document [here](https://docs.go
 
 ## Machine Learning Model
 We are still working on the machine learning model for our first question: To what degree can we predict the outcome of an animal based on various characteristics? Our overall ML flowchart is shown below.
-![Machine_Learning_Flowchart](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/Machine_Learning_Flowchart.png)
+![Machine_Learning_Flowchart](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/MachineLearning_Pipeline.png)
 
 The following points summarize our current Machine Learning Model status.
 - Exploratory data analysis: The file `Austin_AniML_EDA.ipynb` within the `Exploratory_Data_Analysis` folder contains our exploratory analysis. There, we discovered that most of the animals that have come to the shelter are dogs and cats. Most animals are stray (found unclaimed) followed by animals that are surrendered by their owners for some reason. The two most common outcomes for the animals is to be adopted or to be transferred to another shelter. We also examined the typical intake condition, including splitting that out by animal type and sex of the animal at the time of intake. We also found that there are 98 breeds of cats and 2180 breeds of dogs that have come through the shelter.
