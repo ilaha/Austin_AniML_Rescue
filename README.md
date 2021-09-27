@@ -1,5 +1,5 @@
 # Austin_AniML_Rescue
-This repository contains a Machine Learning project to analyze Austin Animal Center's data
+This repository contains a Machine Learning project to analyze Austin Animal Center's data. The project was completed as part of the Data Analysis and Visualization Boot Camp at Texas McCombs School of Business, linked [here](https://techbootcamps.utexas.edu/data/).
 
 ![AAC_graphic](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/AAC_graphic.PNG)
 
@@ -7,7 +7,7 @@ This repository contains a Machine Learning project to analyze Austin Animal Cen
 # Outline of the Project and Organization of the Main Branch
 
 ## Presentation
-Our presentation is available as a [pdf file](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Austin%20Animal%20rescue.pdf) and as Google Slides document [here](https://docs.google.com/presentation/d/120N6hRfooHchPLMDeCw5GEKs5dT-I0a_T48jhp-UGSE/edit?usp=sharing). The Google Slides presentation is read-only via the second link and may be a more updated copy than the pdf.
+Our presentation is available as a Google Slides document [here](https://docs.google.com/presentation/d/120N6hRfooHchPLMDeCw5GEKs5dT-I0a_T48jhp-UGSE/edit?usp=sharing). The Google Slides presentation is read-only and contains our speaker notes.  
 
 
 ## Machine Learning Model
@@ -15,16 +15,17 @@ We are still working on the machine learning model for our first question: To wh
 ![Machine_Learning_Flowchart](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/Machine_Learning_Flowchart.png)
 
 The following points summarize our current Machine Learning Model status.
-- Exploratory data analysis: The file `Austin_AniML_EDA.ipynb` within the `Exploratory_Data_Analysis` folder contains our analysis to this point. There, we discovered that most of the animals that have come to the shelter are dogs and cats. Most animals are stray (found unclaimed) followed by animals that are surrendered by their owners for some reason. The two most common outcomes for the animals is to be adopted or to be transferred to another shelter. We also examined the typical intake condition, including splitting that out by animal type and sex of the animal at the time of intake. We also found that there are 98 breeds of cats and 2180 breeds of dogs that have come through the shelter.
-- Preliminary data preprocessing: The data preprocessing of the table that comes from the Postgres database is given in the `merged_csv_cleaning.ipynb` file. After receiving the file from the database, there are several steps in preprocessing.
+- Exploratory data analysis: The file `Austin_AniML_EDA.ipynb` within the `Exploratory_Data_Analysis` folder contains our exploratory analysis. There, we discovered that most of the animals that have come to the shelter are dogs and cats. Most animals are stray (found unclaimed) followed by animals that are surrendered by their owners for some reason. The two most common outcomes for the animals is to be adopted or to be transferred to another shelter. We also examined the typical intake condition, including splitting that out by animal type and sex of the animal at the time of intake. We also found that there are 98 breeds of cats and 2180 breeds of dogs that have come through the shelter.
+- Preliminary Data Preprocessing: The data preprocessing of the table that comes from the Postgres database is given in the `merged_csv_cleaning.ipynb` file. After receiving the file from the database, there are several steps in preprocessing.
   - Convert dates from objects to datetime datatype. Calculate the length of stay of the animal by subtrating the `intake_date` from the `outcome_date`. 
   - Calculate the age of the animal, in days, base on the intake_date, outcome_date, and date_of_birth assigned for the animal. 
   - Drop animals with intake date of 0 years who are not nursing or neonatal. We believe this small number of animals to be possible errors in the data.
   - Drop columns we are not using and then drop any rows with NaN in the columns that are left.
   - Use OneHotEncoding to convert the categorical variables into variables that can be understood by our model. Merge the encorded columns with original dataset and drop the columns of non-encoded data.
-- Preliminary feature engineering and feature selection: The preliminary feature engineering and selection is described in the file `Machine_Learning.ipynb`. We have some preliminary results on the accuracy of our model (not great right now) and it appears that the age of the animal upon intake is currently the most influential factor.
-- Creation of training and testing data sets: The training and testing splits are in the file `Machine_Learning.ipynb`. We use sci-kit learn train_test_split function with a 75% training and 25% testing split.
-- Model choice: The model is implemented in the file `Machine_Learning.ipynb`. We chose a Random Forest Model because it is a good option for predicting a categorical outcome with multiple options for the final result. Random Forest models can handle the many categorical variables that we have. We have currently tried 4 different versions of our model and don't have a good accuracy yet. Our fourth attempt uses an AdaBoostClassifier instead of Random Forest. These models have the advantage of being relatively robust when it comes to training data, once we figure out how to best clean and organize the model. One limitation of our model seems to be that it has trouble dealing with all the animal types and the many different columns we have (nearly 3000). As we continue to evaluate, we will refine the model. 
+- Feature Engineering and Feature Selection: The feature engineering and feature selection are described in the file `Machine_Learning.ipynb`. We used the models to find the most important features. For cats, the age of the cat upon intake is the most influential factor. For dogs, intake condition and various breeds are the most influential factors. We used the top 20 and top 50 features for cats (and for dogs) to fit models again in attempt to improve our accuracy.
+- Training and Testing Data Sets: The training and testing splits are in the file `Machine_Learning.ipynb`. We use sci-kit learn train_test_split function with a 75% training and 25% testing split. We added 5-fold cross validation to better understand how the model performed on testing data. As described in the previous bullet, we also retrained our model on just the top 20 and top 50 features to attempt to improve our predictions.
+- Model Choice and Changes in the Model during Our Work: The model is implemented in the file `Machine_Learning.ipynb`. We first chose a Random Forest Model because it is a good option for predicting a categorical outcome with multiple options for the final result. Random Forest models can handle the many categorical variables that we have. Because the accuracy score was around 0.60, we added cross-validation and used XGBoost to help tune the algorithm to pay more attention to misclassification errors. Based on those results, we changed our model slightly by splitting up cats and dogs and training a separate XGBoost classifier for each animal group. 
+- Current Accuracy Score: The accuracy of our cat model was about 0.66, and the accuracy of our dog model was about 0.65. When we retrained on just the top 20 or top 50 features, the accuracy of the cat model improved slightly to 0.68, and the dog model improved to just 0.66. We considered the metric of precision (minimizing the rate of false positives for an outcome) to be important and used this along with accuracy to evaluate our models.  
 
 
 ## Database
@@ -37,7 +38,7 @@ The folder also includes a database schema diagram.
 
 
 ## Dashboard
-The folder `Tableau_Dashboard` contains the links to the storyboard on Google Slides as well as the description of the tools we will use to create the final dashboard and the interactive elements. There is also a link to a preliminary version of the dashboard.
+The folder `Tableau_Dashboard` contains a Readme with a link to the current version of our public Tableau data dashboard. 
 
 
 
