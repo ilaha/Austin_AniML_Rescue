@@ -30,7 +30,9 @@ The following points summarize our process and the main branch folders and files
 - Current Accuracy Score: The accuracy of our cat model was about 0.66, and the accuracy of our dog model was about 0.65. When we retrained on just the top 20 or top 50 features, the accuracy of the cat model improved slightly to 0.68, and the dog model improved to just 0.66. We considered the metric of precision (minimizing the rate of false positives for an outcome) to be important and used this along with accuracy to evaluate our models.  
 
 The following images show the results of our *Final Model*, which was the separate models for cats and dogs, using XGBoost.
+
 ![CatFinal](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/CatXGBoost.PNG)
+
 ![DogFinal](https://github.com/ilaha/Austin_AniML_Rescue/blob/main/Images/DogXGBoost.PNG)
 
 
